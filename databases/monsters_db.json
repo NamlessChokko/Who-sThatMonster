@@ -1,0 +1,5593 @@
+[
+  {
+    "Id": 1,
+    "Name": "Abyssal Lagiacrus",
+    "Subname": "",
+    "Description": "A rare species of Lagiacrus known only from an ancient scroll: From the abyss\u0027 darkest cave Comes the master of the wave Consumer of the world entire Devil of the sea most dire Fear it as you fear the grave.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MH3U-Abyssal_Lagiacrus_Icon.png"
+  },
+  {
+    "Id": 2,
+    "Name": "Acidic Glavenus",
+    "Subname": "",
+    "Description": "A subspecies of Glavenus found in the Rotten Vale. A corrosive fluid has crystallized on its tail, spraying acid with each swing.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Acidic_Glavenus_Icon.png"
+  },
+  {
+    "Id": 3,
+    "Name": "Agnaktor",
+    "Subname": "",
+    "Description": "Also known as fire-pike wyverns, Agnaktor use their tough beaks and great strength to burrow through rock. However, their hardened-lava armor becomes soft when they burrow underground or are attacked with fire or explosives",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Agnaktor_Icon.png"
+  },
+  {
+    "Id": 4,
+    "Name": "Ahtal-Ka",
+    "Subname": "",
+    "Description": "The golden empress of praying mantises resides in a huge, ruined castle. She flattens towns and fortresses, and uses the wreckage to build her lair ever larger. It\u0027s rumored that the Empress\u0027s Throne, as it is known, is strewn with golden cocoons and webbing, which contain stolen treasures.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Neopteron",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 8,
+    "Image": "MHGU-Ahtal-Ka_Icon.png"
+  },
+  {
+    "Id": 5,
+    "Name": "Ajarakan",
+    "Subname": "",
+    "Description": "Characteristic by their highly developed carapaces, Ajarakan wrap themselves in molten metal that they rub together to heat up and create explosions. Presumably due to the friction of the metal, they can reach high enough temperatures to melt even the ground or bullets. They can also use their strong limbs to grip onto the ceiling and move around freely, so a hunter must watch out from every angle, including above.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Ajarakan_Icon.png"
+  },
+  {
+    "Id": 6,
+    "Name": "Akantor",
+    "Subname": "",
+    "Description": "A wyvern shrouded in mystery and known by many names -- \u0022the black god\u0022 to some, \u0022the tyrant of fire\u0022 to others, but usually called \u0022Akantor\u0022 by the Guild. Its giant spines and tusks make for a fearsome sight in the volcanic areas it frequents.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire",
+      "Dragon"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MH4U-Akantor_Icon.png"
+  },
+  {
+    "Id": 7,
+    "Name": "Aknosom",
+    "Subname": "",
+    "Description": "When this huge Bird Wyvern stands on one leg, its peculiar collar gives it the appearance of a monstrous parasol. It is fiercely territorial, and whenever it finds intruders, it spreads its wings and unfolds the eye-like crest on its head to terrifying effect.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 2,
+    "Image": "MHRise-Aknosom_Icon.png"
+  },
+  {
+    "Id": 8,
+    "Name": "Alatreon",
+    "Subname": "",
+    "Description": "Blazing black dragons, so named for resembling both lightning and darkness. They mercilessly tear apart whoever touches their sharp scales. Elementally unstable, their actions can affect the very weather. Living natural disasters.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire",
+      "Dragon",
+      "Thunder",
+      "Ice",
+      "Water"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MH3U-Question_Mark_Icon.png"
+  },
+  {
+    "Id": 9,
+    "Name": "Almudron",
+    "Subname": "",
+    "Description": "As its name implies, Almudron spends a great deal of time lurking in mud - at least until it emerges to smother approaching prey. From its tail oozes a strange golden fluid, which Almudron uses to dissolve the ground beneath its prey, arresting them in a mire so that it can drag them under. When enraged, it produces more fluid, turning the mud golden. When you see gold, watch out!",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 7,
+    "Image": "MHRise-Almudron_Icon.png"
+  },
+  {
+    "Id": 10,
+    "Name": "Altaroth",
+    "Subname": "",
+    "Description": "Insects that wildly inhabit many areas. Noted for absorbing fruit, mushrooms, and honey, then carrying them back to the nest. Materials can thus be collected from their swollen abdomens, whose color is related to what is being carried.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Neopteron",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 1,
+    "Image": "MH3U-Altaroth_Icon.png"
+  },
+  {
+    "Id": 11,
+    "Name": "Amatsu",
+    "Subname": "",
+    "Description": "A legendary elder dragon spotted on Sacred Pinnacle. An avatar of storms in the folklore of Yukumo Village, Amatsu\u0027s appearance is accompanied by furious cyclones and horrific storms. Its fearsome power is said to outscale that of natural disasters.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 8,
+    "Image": "MHGen-Amatsu_Icon.png"
+  },
+  {
+    "Id": 12,
+    "Name": "Ancient Leshen",
+    "Subname": "",
+    "Description": "An old Leshen that arrived through a portal to assume control over the Ancient Forest. Sometimes revered as an indigenous deity.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Relict",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Ancient_Leshen_Icon.png"
+  },
+  {
+    "Id": 13,
+    "Name": "Anjanath",
+    "Subname": "",
+    "Description": "The Anjanath patrols the Ancient Forest looking for its favorite meal, Aptonoth. This belligerent monster will attack anything without the slightest provocation.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHW-Anjanath_Icon.png"
+  },
+  {
+    "Id": 14,
+    "Name": "Anteka",
+    "Subname": "",
+    "Description": "Herbivores that live in cold climates. Generally docile, though they have been known to attack when threatened. Their high-quality pelts have many uses, and their antlers are highly prized by the guild. Simply stun the creatures to easily harvest one.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Herbivore",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 1,
+    "Image": "MH3U-Anteka_Icon.png"
+  },
+  {
+    "Id": 15,
+    "Name": "Apceros",
+    "Subname": "",
+    "Description": "Desert-dwelling Herbivores covered in tough plating. Highly territorial and known to tirelessly chase any who enter their habitat, they are especially hostile toward hunters, who have made a practice of stealing eggs from their nests.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Herbivore",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH4U-Apceros_Icon.png"
+  },
+  {
+    "Id": 16,
+    "Name": "Apex Arzuros",
+    "Subname": "",
+    "Description": "An Arzuros so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that cover its body. Its forelegs are massive, deft removers of any who\u0027d stand in their way. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 8,
+    "Image": "MHRise-Apex_Arzuros_Icon.png"
+  },
+  {
+    "Id": 17,
+    "Name": "Apex Diablos",
+    "Subname": "",
+    "Description": "A Diablos so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that cover its body. Its supremely developed horns add to the lethality of its charge. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 10,
+    "Image": "MHRise-Apex_Diablos_Icon.png"
+  },
+  {
+    "Id": 18,
+    "Name": "Apex Mizutsune",
+    "Subname": "",
+    "Description": "A Mizutsune so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that cover its body. Its bubbles and huge tail have no trouble sending foes packing. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 9,
+    "Image": "MHRise-Apex_Mizutsune_Icon.png"
+  },
+  {
+    "Id": 19,
+    "Name": "Apex Rathalos",
+    "Subname": "",
+    "Description": "A Rathalos so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that cover its body. Its every breath releases flaming jets that singe the very air. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 9,
+    "Image": "MHRise-Apex_Rathalos_Icon.png"
+  },
+  {
+    "Id": 20,
+    "Name": "Apex Rathian",
+    "Subname": "",
+    "Description": "A Rathian so mighty, it was crowned an Apex. It is eternally possessed by wrath and terror, possibly due to the myriad wounds that cover its body. Its tail oozes a venom far deadlier than any of a normal monster. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 8,
+    "Image": "MHRise-Apex_Rathian_Icon.png"
+  },
+  {
+    "Id": 21,
+    "Name": "Apex Zinogre",
+    "Subname": "",
+    "Description": "A Zinogre so mighty, it was crowned an Apex. Its body is covered in scars and wounds as if it had been caught in a storm, and it\u0027s seemingly always dominated by wrath and terror. Its forelegs - and their every strike - brim with ferocious sparks. The call of an Apex unleashes its tortured anger on nearby beasts, driving them into a frenzy.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 10,
+    "Image": "MHRise-Apex_Zinogre_Icon.png"
+  },
+  {
+    "Id": 22,
+    "Name": "Aptonoth",
+    "Subname": "",
+    "Description": "Relatively docile herbivores with characteristic crest plates. They form herds and raise young communally, and have been used as pack animals for generations; their meat is tasty and nutritious. Very cautious around large monsters.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Herbivore",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 1,
+    "Image": "MH3U-Aptonoth_Icon.png"
+  },
+  {
+    "Id": 23,
+    "Name": "Arkveld",
+    "Subname": "",
+    "Description": "A flying wyvern that was considered extinct according to documents left behind by the Guild. Their wings have a unique, chain-like blade that can extend and retract freely to reap their prey. They feed on elemental energy absorbed through these chainblades, and are able to convert the energy to unleash dragon element attacks.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Arkveld_Icon.png"
+  },
+  {
+    "Id": 24,
+    "Name": "Arzuros",
+    "Subname": "",
+    "Description": "Forest-and mountain-dwelling beasts found in humid regions. Though known more for fishing and standing upright to collect honey, their thick claws and heavy forearm plating allow them to deliver powerful blows to any aggressor.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 3,
+    "Image": "MH3U-Arzuros_Icon.png"
+  },
+  {
+    "Id": 25,
+    "Name": "Ash Kecha Wacha",
+    "Subname": "",
+    "Description": "As with standard Kecha Wacha, these arboreal fanged beasts shield their face with their tough ears when provoked. What makes them different, however, is their ability to spit fireballs, and, of course, their trademark pale fur.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 3,
+    "Image": "MH4U-Ash_Kecha_Wacha_Icon.png"
+  },
+  {
+    "Id": 26,
+    "Name": "Astalos",
+    "Subname": "",
+    "Description": "Known as the \u0022Thunder Wyvern,\u0022 Astalos can charge itself with electricity from the furious movements of its wings, tail and crest. In its charged state, the membrane in its wings take on a beautiful glow that only barely offsets the terrible nature of this monster.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MHGen-Astalos_Icon.png"
+  },
+  {
+    "Id": 27,
+    "Name": "Aurora Somnacanth",
+    "Subname": "",
+    "Description": "Light illuminates the dust scattered around this subspecies, making their fantastical appearance shimmer softly. Aurora Somnacanth sprays icy blasts in place of sleeping powder, attacking all who dare enter their territory. They use the permanent cold emanating from their bodies to freeze the vicinity, and then the frozen surface to move around swiftly.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MHRS-Aurora_Somnacanth_Icon.png"
+  },
+  {
+    "Id": 28,
+    "Name": "Azure Rathalos",
+    "Subname": "",
+    "Description": "An azure-colored subspecies of Rathalos. More mobile than their standard cousin, they locate prey from the air and quickly swoop in for the kill. Once these master hunters select a target, there is little hope of escape.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MH3U-Azure_Rathalos_Icon.png"
+  },
+  {
+    "Id": 29,
+    "Name": "Baggi",
+    "Subname": "",
+    "Description": "Highly intelligent, carnivorous Bird Wyverns that hunt in packs. Noted for their blue scales and sharp glare. Baggi are feared for their ability to release a tranquillising fluid; it can knock out even humans for several seconds.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH3U-Baggi_Icon.png"
+  },
+  {
+    "Id": 30,
+    "Name": "Balahara",
+    "Subname": "",
+    "Description": "Desert-dwelling leviathans that build carapaces out of fulgurite formed by lightning strikes. They use their flexible skeletons and serpentine bodies to create quicksand traps for unwary prey. Inside their mouths are multiple eye-like sensory organs. The mucus they secret contains luminous bacteria and is believed to aid visibility while they are submerged and other low-light conditions like sandstorms.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Balahara_Icon.png"
+  },
+  {
+    "Id": 31,
+    "Name": "Baleful Gigginox",
+    "Subname": "",
+    "Description": "A subspecies of Gigginox that uses electricity to stun prey. It is believed to be a random mutation, and as such, sightings are relatively rare. It may be possible to weaken its electrical powers by destroying the capacitor organs on its body.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MH3U-Baleful_Gigginox_Icon.png"
+  },
+  {
+    "Id": 32,
+    "Name": "Banbaro",
+    "Subname": "",
+    "Description": "A monster marked by its furious charge and by the majestic twin horns that uproot trees and gouge at the earth as it runs.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Banbaro_Icon.png"
+  },
+  {
+    "Id": 33,
+    "Name": "Barioth",
+    "Subname": "",
+    "Description": "Wyverns that rule the eternally frozen Tundra. Barioth use their huge tusks and spiked scales to move freely atop the slippery ice; this ability makes them very difficult to keep up with.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Barioth_Icon.png"
+  },
+  {
+    "Id": 34,
+    "Name": "Barnos",
+    "Subname": "",
+    "Description": "Fervid wingdrakes that have flourished under harsh living conditions. They target intruders with a unique acidic agent, and then attack as a swarm.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Wingdrake",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Barnos_Icon.png"
+  },
+  {
+    "Id": 35,
+    "Name": "Barroth",
+    "Subname": "",
+    "Description": "Barroth usually remain beneath the mud, perhaps to shield themselves from heat; they are even known to attack by flinging mud. They will charge in a frenzy at anything that disturbs their bogs.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 4,
+    "Image": "MH3U-Barroth_Icon.png"
+  },
+  {
+    "Id": 36,
+    "Name": "Basarios",
+    "Subname": "",
+    "Description": "These juvenile Gravios are famous for their rock-hard carapaces. They often borrow underground, mimicking rocks and savaging oblivious miners. They are known to emit poison gases and are especially weak against bombs.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MH4U-Basarios_Icon.png"
+  },
+  {
+    "Id": 37,
+    "Name": "Versa Pietru",
+    "Subname": "",
+    "Description": "Legendary White Dragon. Lights up the skies, pierces through darkness; the very embodiment of hope.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHST-Versa_Pietru_Icon.png"
+  },
+  {
+    "Id": 38,
+    "Name": "Baunos",
+    "Subname": "",
+    "Description": "Winged wyverns that inhabit the Windward Plains. Rather than do their own hunting, they use their high vantage to scavenge carrion. Baunos take shelter to avoid the lightning during an Inclemency. When a little intimidation is called for, they vibrate their thorax feathers to create a deafening roar. You can get screamer pods from them with the Hook Slinger.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Wingdrake",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Baunos_Icon.png"
+  },
+  {
+    "Id": 39,
+    "Name": "Bazelgeuse",
+    "Subname": "",
+    "Description": "A nefarious flying wyvern that travels the New World in search of prey. It scatters explosive scales over a wide area to prey on whatever gets caught in the blast.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHW-Bazelgeuse_Icon.png"
+  },
+  {
+    "Id": 40,
+    "Name": "Behemoth",
+    "Subname": "",
+    "Description": "A powerful beast from another world. Its large horns and muscular frame defy nature. Unique strategies are required to battle it.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire",
+      "Thunder"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHW-Behemoth_Icon.png"
+  },
+  {
+    "Id": 41,
+    "Name": "Beotodus",
+    "Subname": "",
+    "Description": "This piscine monster\u2019s wedge-shaped head allows it to freely swim through the tundra snow. Frequently seen flinging snow at prey.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Piscine Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Beotodus_Icon.png"
+  },
+  {
+    "Id": 42,
+    "Name": "Berserk Tetsucabra",
+    "Subname": "",
+    "Description": "An amphibious monster known for its distinctive markings resembling a painted face. These beasts dig up and hurl boulders in the same way as a standard Tetsucabra does, but the stones thrown by this Berserk variety explode upon impact.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Amphibian",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 3,
+    "Image": "MH4U-Berserk_Tetsucabra_Icon.png"
+  },
+  {
+    "Id": 43,
+    "Name": "Bishaten",
+    "Subname": "",
+    "Description": "A monster with a distinctive tail. While it is omnivorous, it has a preference for fruit, and keeps various fruits with all kinds of effects in its belly pouch. An incredibly curious beast, it enjoys playing tricks on people, and has been seen to bat fruit at its prey using its tail.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 4,
+    "Image": "MHRise-Bishaten_Icon.png"
+  },
+  {
+    "Id": 44,
+    "Name": "Black Diablos",
+    "Subname": "",
+    "Description": "These black-shelled Diablos are treated as a subspecies, but are actually just normal female Diablos in heat. The color change is a warning to other creatures, as they tend to become extremely aggressive during mating season.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Black_Diablos_Icon.png"
+  },
+  {
+    "Id": 45,
+    "Name": "Black Gravios",
+    "Subname": "",
+    "Description": "A Gravios subspecies distinguished by a hard black carapace that allows them to contain their own extraordinarily high internal temperatures. They sometimes discharge this thermal energy as an extremely powerful heat ray.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH4U-Black_Gravios_Icon.png"
+  },
+  {
+    "Id": 46,
+    "Name": "Blackveil Vaal Hazak",
+    "Subname": "",
+    "Description": "A Vaal Hazak variant encrusted with spores that spew a torrent of toxic effluvium at any who draw close.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Blackveil_Vaal_Hazak_Icon.png"
+  },
+  {
+    "Id": 47,
+    "Name": "Blango",
+    "Subname": "",
+    "Description": "A Pelagus covered in entirely in white fur. Known to move in packs and led by a Blangonga. The Blangonga exerts tight control over the group, and any call to gather will be met immediately by the rank and file Blangos.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 2,
+    "Image": "MHGen-Blango_Icon.png"
+  },
+  {
+    "Id": 48,
+    "Name": "Blangonga",
+    "Subname": "",
+    "Description": "Leader of a Blango pack, it is twice as large and recognized by its giant fangs and whiskers. It sends its pack to attack any trespassers. Its jumping power allows it great mobility in its home range of the Arctic Ridge.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MHGen-Blangonga_Icon.png"
+  },
+  {
+    "Id": 49,
+    "Name": "Blood Orange Bishaten",
+    "Subname": "",
+    "Description": "A subspecies named for their auburn fur. Inquisitive by nature, Blood Orange Bishaten can even appear near human habitats. Their belly pouch is stuffed with combustible pinecones, and this subspecies has a distinct and focused fire breath. The breath itself isn\u0027t as dangerous as the pinecones it ignites. Reports indicate that it\u0027s possible to topple these monsters while they balance on their tails.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MHRS-Blood_Orange_Bishaten_Icon.png"
+  },
+  {
+    "Id": 50,
+    "Name": "Bloodbath Diablos",
+    "Subname": "",
+    "Description": "A desert legend tells of the brave armies sent out against the unimaginable cruelties that had besieged their cities and nations. None of them returned alive, and only the sands remained as witnesses of their efforts. This story has no hero or happy ending, only the wyvern known as \u0022Bloodbath\u0022. Requires special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 6,
+    "Image": "MHGU-Bloodbath_Diablos_Icon.png"
+  },
+  {
+    "Id": 51,
+    "Name": "Blue Yian Kut-Ku",
+    "Subname": "",
+    "Description": "A Yian Kut-Ku variant protected by a blue carapace. They share the same weakness to loud noises that ordinary Yian Kut-Ku have, but when angered, they display significantly greater physical strength.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MH4U-Blue_Yian_Kut-Ku_Icon.png"
+  },
+  {
+    "Id": 52,
+    "Name": "Bnahabra",
+    "Subname": "",
+    "Description": "Flying insects that inhabit most environments. They attack invaders with a paralyzing venom, and lay eggs in carrion together with a bodily fluid that hastens decomposition. As their bodies are easily destroyed, poison is ideal for harvesting their parts.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH3U-Bnahabra_Icon.png"
+  },
+  {
+    "Id": 53,
+    "Name": "Boaboa",
+    "Subname": "",
+    "Description": "",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Lynian",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Boaboa_Icon.png"
+  },
+  {
+    "Id": 54,
+    "Name": "Boggi",
+    "Subname": "",
+    "Description": "Bird Wyverns living in the highlands of the Citadel. These calculating creatures hunt their prey with cunning, often waiting for them to grow weak before striking. They\u0027re dangerous creatures that surround their prey in packs with their sizeable claws ready to strike, so don\u0027t approach them carelessly.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHRS-Boggi_Icon.png"
+  },
+  {
+    "Id": 55,
+    "Name": "Boltreaver Astalos",
+    "Subname": "",
+    "Description": "Whoever gets caught in the lightning shot by the unique Boltreaver Astalos will vanish without a trace, leaving only their shadow behind. The electrical properties of its shell allow it to glide through the air and create electromagnetic charges that can be used in chasing down prey. Requires special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MHGU-Boltreaver_Astalos_Icon.png"
+  },
+  {
+    "Id": 56,
+    "Name": "Bombadgy",
+    "Subname": "",
+    "Description": "An omnivorous small monster with a distinct round shape. Its whole body courses with flammable gas, which it expels in defense when threatened. Once expelled, this gas has explosive properties. This trait has led to Bombadgy being used in combat by many crafty hunters throughout history.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHRise-Bombadgy_Icon.png"
+  },
+  {
+    "Id": 57,
+    "Name": "Brachydios",
+    "Subname": "",
+    "Description": "Brute wyverns coated with an explosive green substance. The material is thought to be a unique myxomycete--or slime mold--that is primed to explode by the Brachydios\u0027s own saliva. Note that these crafty creatures can also deliver powerful foreleg strikes.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Brachydios_Icon.png"
+  },
+  {
+    "Id": 58,
+    "Name": "Brute Tigrex",
+    "Subname": "",
+    "Description": "A subspecies of Tigrex, these beasts are as brutal as they are ravenous. They prefer volcanic regions, but can be found in a range of areas. Their howls are even more piercing than standard Tigrex roars and send shockwaves far and wide.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 5,
+    "Image": "MH4U-Brute_Tigrex_Icon.png"
+  },
+  {
+    "Id": 59,
+    "Name": "Bulldrome",
+    "Subname": "",
+    "Description": "Bulldrome are the imposing leaders of Bullfango packs, notable for their impressive tusks and large bodies. More aggressive than a Bullfango, it is known to ram into its foes, and is extremely proficient at tracking them.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 3,
+    "Image": "MHGen-Bulldrome_Icon.png"
+  },
+  {
+    "Id": 60,
+    "Name": "Bulaqchi",
+    "Subname": "",
+    "Description": "Neopterons that inhabit the Windward Plains. They use their needle-like mouths to pour digestive juices into carrion to dissolve it into easily consumed fluids. Feeding makes them bloated and sluggish, so they have to rest on walls or ceilings. Their forelegs double as sensory organs that they use to assess their surroundings, but they are quite sensitive, so a loud noise is usually enough to immobilize a Bulaqchi.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Neopteron",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Bulaqchi_Icon.png"
+  },
+  {
+    "Id": 61,
+    "Name": "Bullfango",
+    "Subname": "",
+    "Description": "Foul-tempered wild boars that charge toward hunters the moment they spot them. Fertile and wide-ranging, they have been known to form large herds. Their meat has an unique flavor beloved by many.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH3U-Bullfango_Icon.png"
+  },
+  {
+    "Id": 62,
+    "Name": "Ceadeus",
+    "Subname": "",
+    "Description": "Legendary elder dragons known as both \u0022shining giants of the depths\u0022 and \u0022great sea dragons.\u0022 Not confirmed to exist until recently. The Moga quakes were due to a Ceadeus butting its abnormally long horns into the earth.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water",
+      "Dragon"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Ceadeus_Icon.png"
+  },
+  {
+    "Id": 63,
+    "Name": "Ceanataur",
+    "Subname": "",
+    "Description": "An adolescent Carapaceon with an organic shell firmly placed on its back. Once grown, this shell will be replaced by a giant monster\u0027s skull. Mainly living in volcanic zones, it is very aggressive, and not to be underestimated.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Carapaceon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MHGen-Ceanataur_Icon.png"
+  },
+  {
+    "Id": 64,
+    "Name": "Cephadrome",
+    "Subname": "",
+    "Description": "The leaders of Cephalos herds, these individuals are set apart by their larger size and hard, black scales. Like their smaller counterparts, they have excellent hearing, making them sensitive to loud noises. Their fins also secrete a paralytic agent.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Piscine Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 3,
+    "Image": "MH4U-Cephadrome_Icon.png"
+  },
+  {
+    "Id": 65,
+    "Name": "Cephalos",
+    "Subname": "",
+    "Description": "The coloration of these piscine wyverns is well-suited to the deserts they inhabit. Excellent burrowers, they swim through the sand in packs, rarely surfacing. Their ears are highly developed; any impact caused by striking the ground forces them out of hiding.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 2,
+    "Image": "MH4U-Cephalos_Icon.png"
+  },
+  {
+    "Id": 66,
+    "Name": "Ceratonoth",
+    "Subname": "",
+    "Description": "Male Ceratonoth, known for their large herds. During sandstorms, they use their large spikes to channel any lightning strikes. This process sometimes causes fulgurite to form on parts of their bodies. A male responds quickly when a large predator attacks and makes an effort to lead his herd to safety.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Herbivore",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Ceratonoth_Icon.png"
+  },
+  {
+    "Id": 67,
+    "Name": "Chameleos",
+    "Subname": "",
+    "Description": "Precious few sightings of this elder dragon have been recorded, leading to claims it can vanish into its environment like a chameleon -- hence its name. Witnesses report attacks can come out of nowhere, but that Smoke Bombs keep the beast visible.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MH4U-Chameleos_Icon.png"
+  },
+  {
+    "Id": 68,
+    "Name": "Chaotic Gore Magala",
+    "Subname": "",
+    "Description": "",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "???",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MH4U-Chaotic_Gore_Magala_Icon.png"
+  },
+  {
+    "Id": 69,
+    "Name": "Chatacabra",
+    "Subname": "",
+    "Description": "Amphibians that use their long tongues to seize and devour prey such as Bulaqchi. Their evolved forelimbs store a sticky mucus-like substance. When agitated, Chatacabra rub their forelimbs against the ground to collect stone and ore, widening the range and destructiveness of their blows.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Amphibian",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Chatacabra_Icon.png"
+  },
+  {
+    "Id": 70,
+    "Name": "Comaqchi",
+    "Subname": "",
+    "Description": "Neopterons that inhabit the Iceshard Cliffs. Comaqchi rarely move around, staying adhered to the walls most of the time in large colonies. Their forelegs are well adapted to striking, and they can use their well-developed tail stingers to inject a sleeping agent that make targets easier to prey upon.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Neopteron",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Comaqchi_Icon.png"
+  },
+  {
+    "Id": 71,
+    "Name": "Conga",
+    "Subname": "",
+    "Description": "Ape-like fanged beasts with pink fur. Conga prefer to live in smalls groups as oppposed to large packs and primarily inhabit warm, humid environments.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH4U-Conga_Icon.png"
+  },
+  {
+    "Id": 72,
+    "Name": "Congalala",
+    "Subname": "",
+    "Description": "A large fanged beast with pink fur, often found in warm, damp regions. Fond of mushrooms, Congalalas possess either poisonous or flaming breath, depending on the food available in their local habitat.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 2,
+    "Image": "MH4U-Congalala_Icon.png"
+  },
+  {
+    "Id": 73,
+    "Name": "Coral Pukei-Pukei",
+    "Subname": "",
+    "Description": "A bird wyvern that stockpiles water inside its body, fortified by the plant life it consumes. When threatened, it can expel a powerful stream from its mouth or tail.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Coral_Pukei-Pukei_Icon.png"
+  },
+  {
+    "Id": 74,
+    "Name": "Cortos",
+    "Subname": "",
+    "Description": "A wingdrake from the Hinterlands. Usually not aggressive, but will attack hunters in a bind. Its breath lowers elemental resistance.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Wingdrake",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Cortos_Icon.png"
+  },
+  {
+    "Id": 75,
+    "Name": "Crimson Fatalis",
+    "Subname": "",
+    "Description": "",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire",
+      "Dragon"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MH4U-Unknown_Icon.png"
+  },
+  {
+    "Id": 76,
+    "Name": "Crimson Qurupeco",
+    "Subname": "",
+    "Description": "A subspecies of Qurupeco with vivid crimson plumage and the same aptitude for mimicry and dance. Flints in their wings allow them to generate electricity, which can be discharged as either shocking jolts or intense flashes of light.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 3,
+    "Image": "MH3U-Crimson_Qurupeco_Icon.png"
+  },
+  {
+    "Id": 77,
+    "Name": "Crimson Glow Valstrax",
+    "Subname": "",
+    "Description": "A mutant Valstrax fearsomely dubbed the \u0022Crimson Glow\u0022. This elder dragon typically secludes itself in the upper atmosphere, but it has been driven mad by its own rampant energy, causing to lash out at anything in its sight. Once it sights its prey, it swoops down, trampling them beneath its shifting wingblades. Several have been sighted all over, so be prepared to encounter one at any time.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon"
+    ],
+    "ThreatLevel": 10,
+    "Image": "MHRise-Crimson_Glow_Valstrax_Icon.png"
+  },
+  {
+    "Id": 78,
+    "Name": "Crystalbeard Uragaan",
+    "Subname": "",
+    "Description": "A living treasure trove of precious jewels, famous in the lore of miners and said to bring good fortune should you manage to even lay your eyes upon it. Some have tried to slay the \u0022Crystalbeard\u0022 for its treasure, only to be crushed by its glittering fury. Requires special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MHGen-Crystalbeard_Uragaan_Icon.png"
+  },
+  {
+    "Id": 79,
+    "Name": "Dah\u0027ren Mohran",
+    "Subname": "",
+    "Description": "Colossal elder dragons that swim through the Great Desert, smashing obstacles with their spiral horns. Their unique color comes from the thick layer of oxidized metals and other rare minerals that lodge in their hides over their long lives.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 6,
+    "Image": "MH4U-Dahren_Mohran_Icon.png"
+  },
+  {
+    "Id": 80,
+    "Name": "Daimyo Hermitaur",
+    "Subname": "",
+    "Description": "This large Carapaceon attacks prey primarily with its large pincers and bubble breath. If the massive monster skull it wears on its back is destroyed, it will flee in search of a new husk to call home.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Carapaceon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 3,
+    "Image": "MH4U-Daimyo_Hermitaur_Icon.png"
+  },
+  {
+    "Id": 81,
+    "Name": "Dalamadur",
+    "Subname": "",
+    "Description": "A huge elder dragon, massive beyond human comprehension. The only mention of its existence is found in fairy tales, which claim it can warp the very surface of the world and level mountains with a single twitch.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 6,
+    "Image": "MH4U-Dalamadur-Head_Icon.png"
+  },
+  {
+    "Id": 82,
+    "Name": "Daltyhdon",
+    "Subname": "",
+    "Description": "Herbivores that live in herds and move between habitats in response to environmental changes. Dalthydon are bred as livestock and play an important role in human life. Although they are docile in general, when the herd is in danger, they assume a group defensive formation and use their evolved cranial plating as a weapon.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Herbivore",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Dalthydon_Icon.png"
+  },
+  {
+    "Id": 83,
+    "Name": "Deadeye Yian Garuga",
+    "Subname": "",
+    "Description": "The \u0022Deadeye\u0022 is a battle-scarred veteran of countless duels to the death. Its one-eyed gaze burns with the fervor of a thousand victorious fights. A famous hunter once said: \u0022That\u0027s the only feller with a better HR than me!\u0022 Requires special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MHGen-Deadeye_Yian_Garuga_Icon.png"
+  },
+  {
+    "Id": 84,
+    "Name": "Delex",
+    "Subname": "",
+    "Description": "Carnivorous desert monsters that often travel in schools of four or five. When near large monsters on the hunt, they will attempt to surround the prey and scavenge feed. Their aural sensitivity makes them weak against Sonic Bombs.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Piscine Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 2,
+    "Image": "MH3U-Delex_Icon.png"
+  },
+  {
+    "Id": 85,
+    "Name": "Desert Seltas",
+    "Subname": "",
+    "Description": "A mid-sized Neopteron whose forked horns and broad foreleg- attack range set it apart from its more common cousins. Desert Seltas have also been known to burrow freely through the ground.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Neopteron",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 3,
+    "Image": "MH4U-Desert_Seltas_Icon.png"
+  },
+  {
+    "Id": 86,
+    "Name": "Desert Seltas Queen",
+    "Subname": "",
+    "Description": "A large Neopteron known to use the pincers at the tip of its long tail to grasp male Seltas -- or anything it considers a threat. Once it has a male in its grasp, this Desert subspecies may even violently throw its mate at enemies.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Neopteron",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH4U-Desert_Seltas_Queen_Icon.png"
+  },
+  {
+    "Id": 87,
+    "Name": "Deviljho",
+    "Subname": "",
+    "Description": "The dreaded, nomadic Deviljho have no specific territory of their own. Their muscles swell if provoked, revealing old wounds. Needing to feed constantly due to high body heat, they can hunt nearby animals to extinction.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MH3U-Deviljho_Icon.png"
+  },
+  {
+    "Id": 88,
+    "Name": "Diablos",
+    "Subname": "",
+    "Description": "Wyverns feared as desert tyrants. Extremely territorial, Diablos attack invaders with blind aggression. Highly sensitive to sound, perhaps because they frequently travel beneath the sand. Known to feed on cacti.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Diablos_Icon.png"
+  },
+  {
+    "Id": 89,
+    "Name": "Dire Miralis",
+    "Subname": "",
+    "Description": "Some legends consider this great dragon to be the devil fated to destroy the world, while others claim it is the giant who birthed creation. Is there any way for mere humans to quell its unending rage?",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MH3U-Question_Mark_Icon.png"
+  },
+  {
+    "Id": 90,
+    "Name": "Dodogama",
+    "Subname": "",
+    "Description": "A monster that devours rock as its primary diet. The Crystals it devours mix with its saliva to produce explosive minerals that it can spit at its enemies.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Dodogama_Icon.png"
+  },
+  {
+    "Id": 91,
+    "Name": "Doshaguma",
+    "Subname": "",
+    "Description": "Fanged beasts that are sometimes seen traveling in packs. Ruggedly built and extremely aggressive, Doshaguma won\u0027t hesitate to throw everything they\u0027ve got at enemies - even other small monsters. They have been known to take prey back to their dens, which sometimes leads to violent disputes.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Doshaguma_Icon.png"
+  },
+  {
+    "Id": 92,
+    "Name": "Dreadking Rathalos",
+    "Subname": "",
+    "Description": "Even among the rulers of the sky, the \u0022Dreadking\u0022 is truly the king of kings. A giant, supported by wings as black as the scorched remains of its prey. Humans are usually unworthy of its attention, but it descends with fiery wrath upon intruders to its domain. Requires special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MHGen-Dreadking_Rathalos_Icon.png"
+  },
+  {
+    "Id": 93,
+    "Name": "Dreadqueen Rathian",
+    "Subname": "",
+    "Description": "Every rose has its thorns. The \u0022Dreadqueen\u0027s\u0022 thorns are barbs full of deadly venom, and they can scatter a purple cloud of suffocating death in any area she alights. She blooms proud and alone amidst her own desolation. Requires special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MHGen-Dreadqueen_Rathian_Icon.png"
+  },
+  {
+    "Id": 94,
+    "Name": "Drilltusk Tetsucabra",
+    "Subname": "",
+    "Description": "An exceptionally large Tetsucabra with tusks that can drill through earth, or even metal. If the Drilltusk weren\u0027t constantly shattering boulders on its enemies or trying to crush them with its weight, one could almost appreciate the masterful way it digs. Requires special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Amphibian",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 5,
+    "Image": "MHGen-Drilltusk_Tetsucabra_Icon.png"
+  },
+  {
+    "Id": 95,
+    "Name": "Duramboros",
+    "Subname": "",
+    "Description": "Giant brute wyverns with hammer-like growths on their tails. They subsist on fallen or withered trees, often using their tails to knock said trees over. Researchers speculate that the lumps on their backs act as some sort of energy source.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Duramboros_Icon.png"
+  },
+  {
+    "Id": 96,
+    "Name": "Ebony Odogaron",
+    "Subname": "",
+    "Description": "This Odogaron subspecies is forever on the prowl for its next meal, and is often seen carrying fresh kills in its mouth. Reports indicate it goes into a frenzy upon eating.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Ebony_Odogaron_Icon.png"
+  },
+  {
+    "Id": 97,
+    "Name": "Elderfrost Gammoth",
+    "Subname": "",
+    "Description": "A Gammoth so gargantuan, ancient and strong that it may be mistaken for the foot of a mountain. Its great age and mountain home have given it the nickname \u0022Elderfrost\u0022. Very few people have ever seen it fight, but it sometimes causes wild blizzards that race down the mountain and ravage the plains. Requires special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MHGU-Elderfrost_Gammoth_Icon.png"
+  },
+  {
+    "Id": 98,
+    "Name": "Emerald Congalala",
+    "Subname": "",
+    "Description": "A Congalala variant with green fur and a more prominent crest. Even more ravenous than ordinary Congalalas, they can store a greater amount of gas in their body, which means that they can produce a wider-reaching flatulence when threatened or provoked.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MH4U-Emerald_Congalala_Icon.png"
+  },
+  {
+    "Id": 99,
+    "Name": "Epioth",
+    "Subname": "",
+    "Description": "Submissive, water-dwelling herbivores that subsist on water grasses and moss. Epioth surface frequently to sunbathe. Extremely timid, they panic when danger is present, swimming about in haphazard fashion.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Herbivore",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 1,
+    "Image": "MH3U-Epioth_Icon.png"
+  },
+  {
+    "Id": 100,
+    "Name": "Espinas",
+    "Subname": "",
+    "Description": "Flying Wyverns known for the red spikes on their tough green frame, forming both a means of attack and defense, thus generally keeping foes at bay. As a result, they are often seen sprawled out and relaxing in their domain. Once they sense danger, however, they expand their blood vessels to turn their hide and wing membranes a bright red, and they will run riot with noteworthy brutality.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 7,
+    "Image": "MHRS-Espinas_Icon.png"
+  },
+  {
+    "Id": 101,
+    "Name": "Fatalis",
+    "Subname": "",
+    "Description": "Stories of this legendary dragon date back to antiquity. Many skilled hunters have sought to challenge it, but none have ever returned. A monster shrouded in mystery...",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire",
+      "Dragon"
+    ],
+    "ThreatLevel": 8,
+    "Image": "MH4U-Unknown_Icon.png"
+  },
+  {
+    "Id": 102,
+    "Name": "Felyne",
+    "Subname": "",
+    "Description": "Bipedal creatures resembling cats, known for their light hair. Though usually docile, they will attack viciously if provoked. Naturally curious, some try to enter human society. Fond of Felvine, they will follow its scent anywhere.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Lynian",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 1,
+    "Image": "MH3U-Felyne_Icon.png"
+  },
+  {
+    "Id": 103,
+    "Name": "Fish",
+    "Subname": "",
+    "Description": "This category includes carnivorous fish (Sharq, Catfish), migratory fish (Tuna, Arowanas), and natatorial fish (Molids, Perciformes). Fish often flee when attacked, so hunters prefer to use harpoons to obtain materials from them.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fish",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH3U-Fish_Icon.png"
+  },
+  {
+    "Id": 104,
+    "Name": "Flaming Espinas",
+    "Subname": "",
+    "Description": "An Espinas subspecies with a slightly more muted body color. The boldness of the standard Espinas remains: run-of-the-mill attacks won\u0027t rouse Flaming Espinas from their slumber. Their breath attack contains a powerful poison, and a dense acid that deteriorates armor. Take this attack head-on, and you won\u0027t stand a chance...",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 9,
+    "Image": "MHRS-Flaming_Espinas_Icon.png"
+  },
+  {
+    "Id": 105,
+    "Name": "Frostfang Barioth",
+    "Subname": "",
+    "Description": "A Barioth variant capable of spewing a sub-zero breath attack that it uses to slow down prey. Be careful, as this attack can freeze you as well.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Frostfang_Barioth_Icon.png"
+  },
+  {
+    "Id": 106,
+    "Name": "Fulgur Anjanath",
+    "Subname": "",
+    "Description": "Feared as the \u201CThunderjaw Wyvern\u201D, this Anjanath subspecies electrifies its jaws and dorsal membrane with every blow.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Fulgur_Anjanath_Icon.png"
+  },
+  {
+    "Id": 107,
+    "Name": "Furious Rajang",
+    "Subname": "",
+    "Description": "",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MH4U-Furious_Rajang_Icon.png"
+  },
+  {
+    "Id": 108,
+    "Name": "Gaismagorm",
+    "Subname": "",
+    "Description": "A gargantuan monster living in the darkest depths since ancient times. Gaismagorm\u0027s rock-like forearms boast tenacious strength which allows it to burrow underground. It has a symbiotic relationship with the Qurio, and feeds on their life force for energy. Once it has chosen a place to nest, it collapses the surrounding rock bed to create an opening to the surface. The opening forms a massive crater in which it releases the Qurio through.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 10,
+    "Image": "MHRS-Gaismagorm.png"
+  },
+  {
+    "Id": 109,
+    "Name": "Gajalaka",
+    "Subname": "",
+    "Description": "",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Lynian",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Gajalaka_Icon.png"
+  },
+  {
+    "Id": 110,
+    "Name": "Gajau",
+    "Subname": "",
+    "Description": "Vicious piscine that forms groups to defend their territory from intruders. Be sure not to venture too close to their habitat!",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fish",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Gajau_Icon.png"
+  },
+  {
+    "Id": 111,
+    "Name": "Gajios",
+    "Subname": "",
+    "Description": "Leviathans with distinct snouts that live near water. If the water is deep enough, a Gajios will stay submerged with only the tip of its nose exposed, waiting for prey to wander by. You can obtain bleeding pods with the Hook Slinger\u2014but not without a fight.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Gajios_Icon.png"
+  },
+  {
+    "Id": 112,
+    "Name": "Gammoth",
+    "Subname": "",
+    "Description": "Found in the most frigid regions of the world, Gammoths are behemoths with massive tusks. Though they are herbivores, when provoked they will leverage their enormous weight and trunks to crush a threat. They can also shatter the snow covering their legs to damage nearby foes.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MHGen-Gammoth_Icon.png"
+  },
+  {
+    "Id": 113,
+    "Name": "Garangolm",
+    "Subname": "",
+    "Description": "A monster characterized by its massive and rigid body. Garangolm are generally placid, living in regions with fertile soil. Their sap-like fluids can promote plant growth, gorging a symbiotic relationship with flora that grows in their bodies. They can also use that sap to harden plants or the surrounding soil, outfitting their bodies and enhancing their attacks.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire",
+      "Water"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHRS-Garangolm.png"
+  },
+  {
+    "Id": 114,
+    "Name": "Gargwa",
+    "Subname": "",
+    "Description": "Flightless bird wyverns with vestigial wings. They can often be found roaming wild in the Misty Peaks, but are also raised as livestock in Yukumo Village. Quite timid, Gargwa have been known to lay eggs when startled.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 1,
+    "Image": "MH3U-Gargwa_Icon.png"
+  },
+  {
+    "Id": 115,
+    "Name": "Gastodon",
+    "Subname": "",
+    "Description": "Pack monsters that inhabit the Elder\u0027s Recess. They are easily angered by intruders, and will charge at monsters twice their size.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Gastodon_Icon.png"
+  },
+  {
+    "Id": 116,
+    "Name": "Gelidron",
+    "Subname": "",
+    "Description": "Amphibians commonly found in Oilwell Basin. Subcutaneous slime protects them from getting burned. Gelidron lay ambushes, waiting to snap up prey with their big, meaty tongues. Fine hairs on their digits, combined with sharp claws, allow them to climb straight up walls. Unfortunately for the Gelidron, their edible parts are delicious, putting them in high demand with carnivores in the wild...as well as in Azuz.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Amphibian",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Gelidron_Icon.png"
+  },
+  {
+    "Id": 117,
+    "Name": "Gendrome",
+    "Subname": "",
+    "Description": "Alpha monsters that lead Genprey packs. Larger than their brothers and with a more prominent crest, Gendrome use the venom in their highly evolved fangs and claws to paralyze their prey.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 3,
+    "Image": "MH4U-Gendrome_Icon.png"
+  },
+  {
+    "Id": 118,
+    "Name": "Genprey",
+    "Subname": "",
+    "Description": "Bird wyverns with a distinctive green-and-orange striped hide, Genprey live in packs in the Sunken Hollow and Primal Forest. Their claws and large fangs contain a paralyzing neurotoxin that they use to stun prey.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH4U-Genprey_Icon.png"
+  },
+  {
+    "Id": 119,
+    "Name": "Giadrome",
+    "Subname": "",
+    "Description": "Alpha monsters that lead Giaprey packs. They sport splendid crests and are much bigger than Giaprey they lead. They spit ice with deadly accuracy, and woe betide the Hunter who gets caught in it.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 3,
+    "Image": "MHGU-Giadrome_Icon.png"
+  },
+  {
+    "Id": 120,
+    "Name": "Giaprey",
+    "Subname": "",
+    "Description": "A species of small bird-like carnivores known to inhabit the Arctic Ridge. Their white skin is beautiful, but their temperament is not. They are known to spit ice at hunters, and attack in deadly packs.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 2,
+    "Image": "MHGen-Giaprey_Icon.png"
+  },
+  {
+    "Id": 121,
+    "Name": "Giggi",
+    "Subname": "",
+    "Description": "Remarkably fecund wyvern larvae that can flourish in any dark environment. They survive by leeching onto other animals, sucking their blood, and then converting it to toxins. Giggi victims are advised to shake them off by rolling vigorously on the ground.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH3U-Giggi_Icon.png"
+  },
+  {
+    "Id": 122,
+    "Name": "Gigginox",
+    "Subname": "",
+    "Description": "Wyverns that inhabit the Tundra. Gigginox live in darkness and thus have degraded vision; they detect prey via body heat, then attack with poison. When excited, their color changes and parts of their body harden. Extremely fertile, laying innumerable eggs.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 4,
+    "Image": "MH3U-Gigginox_Icon.png"
+  },
+  {
+    "Id": 123,
+    "Name": "Girros",
+    "Subname": "",
+    "Description": "Monsters that are known to attack in packs, using the deadly vapor of the Rotten Vale to their advantage. They\u0027re known to crippling targets with their paralyzing fangs.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Girros_Icon.png"
+  },
+  {
+    "Id": 124,
+    "Name": "Glacial Agnaktor",
+    "Subname": "",
+    "Description": "A Tundra-based subspecies of Agnaktor that spits powerful jets of water. Its sharp beak allows it to burrow into the permafrost and clad itself in a layer of ice. This icy armor can only be melted with heat-based attacks.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice",
+      "Water"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Glacial_Agnaktor_Icon.png"
+  },
+  {
+    "Id": 125,
+    "Name": "Glavenus",
+    "Subname": "",
+    "Description": "A brute wyvern that can bring its mighty tail down on foes like a massive sword, decimating them in an explosion of flames created from the volatile components found in its scales. If its tail dulls from accumulated soot, a Glavenus will use its fangs to resharpen it.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MHGen-Glavenus_Icon.png"
+  },
+  {
+    "Id": 126,
+    "Name": "Gobul",
+    "Subname": "",
+    "Description": "Monsters with strong camouflage skills and powerful neurotoxins. Poor swimmers, Gobul conceal themselves and lure prey by imitating plants with their barbels. Can reportedly swallow Epioth whole. They love frogs.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MH3U-Gobul_Icon.png"
+  },
+  {
+    "Id": 127,
+    "Name": "Gogmazios",
+    "Subname": "",
+    "Description": "Coated in a thick, sticky fluid, this massive elder dragon appears unhindered by the Dragonator lodged in its back. Eyewitness reports suggest that, despite its massive size, this mysterious behemoth is indeed capable of flight.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MH4U-Unknown_Icon.png"
+  },
+  {
+    "Id": 128,
+    "Name": "Gold Rathian",
+    "Subname": "",
+    "Description": "A rare variant of Rathian with a beautiful golden body reminiscent of the moon. Little is known about their behavior or physiology--including the source of their rich golden sheen.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Gold_Rathian_Icon.png"
+  },
+  {
+    "Id": 129,
+    "Name": "Goldbeard Ceadeus",
+    "Subname": "",
+    "Description": "A rarely-seen subspecies of Ceadeus confirmed to exist deep within ocean ruins. The golden light they cast in the dark depths befits a creature of such legendary status. Sadly, little is known about their relationship to the standard Ceadeus.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MH3U-Goldbeard_Ceadeus_Icon.png"
+  },
+  {
+    "Id": 130,
+    "Name": "Gore Magala",
+    "Subname": "",
+    "Description": "A curious monster that, when threatened, scatters pollen-like scales that heighten its own senses while causing detrimental effects to any other creatures that inhale them. As elusive as they are mysterious.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Demi Elder",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 5,
+    "Image": "MH4U-Gore_Magala_Icon.png"
+  },
+  {
+    "Id": 131,
+    "Name": "Goss Harag",
+    "Subname": "",
+    "Description": "A Fanged Beast roaming snowy plains in search of prey. Its body is covered in fur so thick it keeps out the harsh frost. It can inhale the cold air to freeze its own bodily fluids and then spit them out to create icy blades on its arms. When riled up, it turns red and becomes exceedingly dangerous.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 7,
+    "Image": "MHRise-Goss_Harag_Icon.png"
+  },
+  {
+    "Id": 132,
+    "Name": "Gowngoat",
+    "Subname": "",
+    "Description": "Herbivorous monsters with fluffy tails. Their tails are mostly composed of slate gray hair; some scholars surmise that this trait lets them roll into balls to disguise themselves as rocks. Others believe their tails serve to hide and protect newborn offspring. Gentle by nature, they tend to live in herds. They are easily frightened, and the entire group will flee when attacked.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Herbivore",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHRS-Gowngoat_Icon.png"
+  },
+  {
+    "Id": 133,
+    "Name": "Gravios",
+    "Subname": "",
+    "Description": "Large wyverns found in volcanic areas. They possess a fiery breath attack and the ability to emit sleeping gas. Their bony carapaces are extremely tough, but expose a surprisingly brittle interior once destroyed.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH4U-Gravios_Icon.png"
+  },
+  {
+    "Id": 134,
+    "Name": "Great Baggi",
+    "Subname": "",
+    "Description": "Carnivorous bird wyverns like the Jaggi. Noted for their projecting cranial crests and bluish-white skin that\u0027s adapted to snow. Great Baggi craftily command other Baggi to surround their prey and stun them with a tranquilizing fluid.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 3,
+    "Image": "MH3U-Great_Baggi_Icon.png"
+  },
+  {
+    "Id": 135,
+    "Name": "Great Dracophage Bug",
+    "Subname": "",
+    "Description": "Large Dracophage Bugs. Dragon Element energy is said to lie dormant within their bodies.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Neopteron",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHST-Great_Dracophage_Bug_Icon.png"
+  },
+  {
+    "Id": 136,
+    "Name": "Great Girros",
+    "Subname": "",
+    "Description": "A monster that scavenges for meals dropped from the Coral Highlands. It acts as the alpha leader of a Girros pack, and sports giant fangs that paralyze its prey.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Great_Girros_Icon.png"
+  },
+  {
+    "Id": 137,
+    "Name": "Great Izuchi",
+    "Subname": "",
+    "Description": "The alpha Izuchi of its pack, identified by its larger build, upended white fur and scythe-like tail. A Great Izuchi forms a herd of many smaller Izuchi and selects two from the group to accompany it on territory patrols. Once it spots prey or senses danger, the Great Izuchi issues commands to their fellow Izuchi, and coordinates their movements. Take care that you don\u0027t get overwhelmed.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 1,
+    "Image": "MHRise-Great_Izuchi_Icon.png"
+  },
+  {
+    "Id": 138,
+    "Name": "Great Jaggi",
+    "Subname": "",
+    "Description": "The commanding alpha male of Jaggi packs. Most males leave the group upon reaching maturity, returning to compete with others. The dominant male then becomes a Great Jaggi. Apparently, they can issue fairly complex orders via howling.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 3,
+    "Image": "MH3U-Great_Jaggi_Icon.png"
+  },
+  {
+    "Id": 139,
+    "Name": "Great Jagras",
+    "Subname": "",
+    "Description": "The pack leader of the Jagras. When hungry, Great Jagras are known to attack monsters even stronger than themselves. It balloons to unbelievable proportions after swallowing prey.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Great_Jagras_Icon.png"
+  },
+  {
+    "Id": 140,
+    "Name": "Great Maccao",
+    "Subname": "",
+    "Description": "Leader of the pack-hunting Maccao, the Great Maccao is easily spotted by its large size and feather-like yellow crest. It can balance on its tail and spring forward for a deadly strike, but when weakened, its lesser Maccao cousins are quick to turn tail and run.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 3,
+    "Image": "MHGen-Great_Maccao_Icon.png"
+  },
+  {
+    "Id": 141,
+    "Name": "Great Thunderbug",
+    "Subname": "",
+    "Description": "Thunderbugs can be used to make a variety of weapons and items, but these ones have grown to a monstrous size inside an elder dragon. They are imbued with formidable electric powers. They congregate at night and in caves where the sunlight doesn\u0027t reach.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Neopteron",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 1,
+    "Image": "MHGU-Great_Thunderbug_Icon.png"
+  },
+  {
+    "Id": 142,
+    "Name": "Great Wroggi",
+    "Subname": "",
+    "Description": "Bird wyverns that spit a poisonous mist. Wroggi travel in packs that are led by the largest and most toxic member. The poison is made in a sac-like organ around its throat; if this is destroyed, the creature\u0027s ability to spit is impaired.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 3,
+    "Image": "MH3U-Great_Wroggi_Icon.png"
+  },
+  {
+    "Id": 143,
+    "Name": "Green Nargacuga",
+    "Subname": "",
+    "Description": "A Nargacuga subspecies with mottled fur that allows it to blend into the foliage of verdant areas like the Flooded Forest and the Deserted Island. It is quite skilled in the use of its tail, the spikes of which are said to be extremely deadly.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Green_Nargacuga_Icon.png"
+  },
+  {
+    "Id": 144,
+    "Name": "Green Plesioth",
+    "Subname": "",
+    "Description": "A subspecies of Plesioth with jade-green scales. Though primarily aquatic, the creature\u0027s movements are equally adept both in and out of water. When enraged, it has a habit of surfacing to rampage on land.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Piscine Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Green_Plesioth_Icon.png"
+  },
+  {
+    "Id": 145,
+    "Name": "Grimalkyne",
+    "Subname": "",
+    "Description": "",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Lynian",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Grimalkyne_Icon.png"
+  },
+  {
+    "Id": 146,
+    "Name": "Grimclaw Tigrex",
+    "Subname": "",
+    "Description": "Highly developed physical strength lets it trample anything in its way, and its raw power overwhelms the so-called technological strengths that humans have spent centuries cultivating. Even veteran hunters shudder at its name, \u0022Grimclaw.\u0022 Requires special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 6,
+    "Image": "MHGen-Grimclaw_Tigrex_Icon.png"
+  },
+  {
+    "Id": 147,
+    "Name": "Guardian Arkveld",
+    "Subname": "",
+    "Description": "An artificial species created by an ancient civilization and imbued with the power of a monster called Arkveld. It cannot reproduce and does not require food, relying instead on Wyvern Milk for energy. In addition to absorbing and discharging energy the way other Guardians do, Guardian Arkveld can also absorb elemental energy through the chainblades on its wings and use it for sustenance.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Construct",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Guardian_Arkveld_Icon.png"
+  },
+  {
+    "Id": 148,
+    "Name": "Guardian Doshaguma",
+    "Subname": "",
+    "Description": "An artificial monster species created by an ancient civilization and imbued with Doshaguma\u0027s power. Guardian Doshaguma cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. While anything but agile, they\u0027re tough enough to charge right through attacks without flinching, making them extremely dangerous.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Construct",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Guardian_Doshaguma_Icon.png"
+  },
+  {
+    "Id": 149,
+    "Name": "Guardian Ebony Odogaron",
+    "Subname": "",
+    "Description": "An artificial monster species created by an ancient civilization and imbued with Ebony Odogaron\u0027s power. Guardian Ebony Odogaron cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. They will attempt to corner targets with flurries of attacks from their well-developed claws and tails.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Construct",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Guardian_Ebony_Odogaron_Icon.png"
+  },
+  {
+    "Id": 150,
+    "Name": "Guardian Fulgur Anjanath",
+    "Subname": "",
+    "Description": "An artificial monster species created by an ancient civilization and imbued with Fulgur Anjanath\u0027s power. Guardian Fulgur Anjanath cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. Not only can the lightning charged in their bodies be released as an attack, they can also use it to empower themselves and perform vicious biting attacks.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Construct",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Guardian_Fulgur_Anjanath_Icon.png"
+  },
+  {
+    "Id": 151,
+    "Name": "Guardian Rathalos",
+    "Subname": "",
+    "Description": "An artificial monster species created by an ancient civilization and imbued with Rathalos\u0027s power. Guardian Rathalos cannot reproduce and do not require food, relying instead on Wyvern Milk for energy. Just like the original Rathalos, they are superior fliers and will attack more violently with their claws while airborne.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Construct",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Guardian_Rathalos_Icon.png"
+  },
+  {
+    "Id": 152,
+    "Name": "Guardian Seikret",
+    "Subname": "",
+    "Description": "Artificial wyverns created by an ancient civilization. They dash through the Ruins of Wyveria in search of Wyvern Milk, their source of energy. Unlike the original Seikret, the Guardian types are aggressive and have sharp, dangerous claws on their unique forelegs. They generally travel in packs of two or three, but if threatened, they may call for more help and try to surround the adversary.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Construct",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Guardian_Seikret_Icon.png"
+  },
+  {
+    "Id": 153,
+    "Name": "Gypceros",
+    "Subname": "",
+    "Description": "Wyverns that can generate disorienting flashes of light by striking their prominent crests. Their rubbery hide resists blunt impacts and makes Shock Traps less effective. Beware: The poisonous saliva they spit can flow down slopes.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 3,
+    "Image": "MH4U-Gypceros_Icon.png"
+  },
+  {
+    "Id": 154,
+    "Name": "Harpios",
+    "Subname": "",
+    "Description": "Winged wyverns that are identifiable by the long, sharp horn on their heads\u2014which just so happen to make great Slinger ammo. Large as the Harpios may be, they never attack hunters, choosing instead to stay by the water and prey on fish. On occasions when large fish scare the smaller ones to the surface, you might even get to see a bona fide Harpios feeding frenzy.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Wingdrake",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Harpios_Icon.png"
+  },
+  {
+    "Id": 155,
+    "Name": "Hallowed Jhen Mohran",
+    "Subname": "",
+    "Description": "A subspecies of Jhen Mohran whose appearance has been likened to a crystal shimmering in the darkness. It inspires such awe and wonder that news of a sighting draws a stampede of hunters from across the land.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 6,
+    "Image": "MH3U-Hallowed_Jhen_Mohran_Icon.png"
+  },
+  {
+    "Id": 156,
+    "Name": "Hellblade Glavenus",
+    "Subname": "",
+    "Description": "A Glavenus whose intense heat is akin to an active volcano. It can blast apart stone with a single breath, and incinerate mountains with a single swipe of its red-hot tail. The \u0022Hellblade\u0022 requires a special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MHGen-Hellblade_Glavenus_Icon.png"
+  },
+  {
+    "Id": 157,
+    "Name": "Hermitaur",
+    "Subname": "",
+    "Description": "These small, hard-shelled Carapaceon creatures are common in the desert, where they frequently lie in wait under the sands, lashing out when prey happen past them. Their brains are prized as a delicacy.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Carapaceon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH4U-Hermitaur_Icon.png"
+  },
+  {
+    "Id": 158,
+    "Name": "Hirabami",
+    "Subname": "",
+    "Description": "Leviathans that inhabit the Iceshard Cliffs. They have sharp, pincer-like tails and peculiar membrans on their necks that catch the wind and keep them aloft. Hirabami can sometimes be sighted nesting in groups along the cliffs, using their scales or foreclaws to cling to walls or ceiling while they sleep.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Hirabami_Icon.png"
+  },
+  {
+    "Id": 159,
+    "Name": "Hornetaur",
+    "Subname": "",
+    "Description": "A Vespoid-like monster, but with a thicker shell. Easily damaged, there are rarely any usable materials left to harvest from them once killed. But if you could sap their Health gradually...",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Neopteron",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 1,
+    "Image": "MHGen-Hornetaur_Icon.png"
+  },
+  {
+    "Id": 160,
+    "Name": "Iodrome",
+    "Subname": "",
+    "Description": "Alpha monsters that lead Ioprey. Larger than their brothers and with a more prominent crest, Iodrome spit a poison that slowly saps the life from their prey. They are found primarily in subtropical zones.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 3,
+    "Image": "MH4U-Iodrome_Icon.png"
+  },
+  {
+    "Id": 161,
+    "Name": "Ioprey",
+    "Subname": "",
+    "Description": "A vivid red species of small carnivores often found in subtropical zones. Sacs in their throats contain a powerful poison that slowly drains the Health of their prey.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH4U-Ioprey_Icon.png"
+  },
+  {
+    "Id": 162,
+    "Name": "Ivory Lagiacrus",
+    "Subname": "",
+    "Description": "A subspecies of Lagiacrus with a beautiful ivory carapace. It has exceptional mobility while on land, and its charge and breath attacks are nothing short of devastating. The electrical charges it emits when enraged are truly fearsome.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder",
+      "Water"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Ivory_Lagiacrus_Icon.png"
+  },
+  {
+    "Id": 163,
+    "Name": "Izuchi",
+    "Subname": "",
+    "Description": "An omnivorous bird wyvern that has a characteristic scythe-shaped tail. It uses this tail to attack, but also to climb trees and chop down fruit. Most Izuchi fall into herd led by a Great Izuchi; in each herd, the two best fighters are selected by the leader to help it hunt prey.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHRise-Izuchi_Icon.png"
+  },
+  {
+    "Id": 164,
+    "Name": "Jade Barroth",
+    "Subname": "",
+    "Description": "A subspecies of Barroth found in colder climates. Lacking mud, they coat themselves with snow and ice, which can be flung at perceived threats. They are known for bashing their overgrown crowns into the ice, and subsist primarily on Bnahabra.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MH3U-Jade_Barroth_Icon.png"
+  },
+  {
+    "Id": 165,
+    "Name": "Jaggi",
+    "Subname": "",
+    "Description": "Highly social, carnivorous bird wyverns that live in large packs. Young Jaggi males hunt in groups when attacking larger animals, and have been known to steal wyvern eggs. Research suggest they operate under orders from a single alpha male.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH3U-Jaggi_Icon.png"
+  },
+  {
+    "Id": 166,
+    "Name": "Jaggia",
+    "Subname": "",
+    "Description": "Female Jaggi that stay in groups, Jaggia generally cluster around the nest to defend it and raise whelps. Smaller than mature males, but larger than and tougher than the countless young males. Jaggia also operate under an alphas orders.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH3U-Jaggia_Icon.png"
+  },
+  {
+    "Id": 167,
+    "Name": "Jagras",
+    "Subname": "",
+    "Description": "Members of the Great Jagras pack, these smaller monsters will flee upon seeing one of their own perish. They are also known for ambushing larger monsters at a moment\u0027s notice.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Jagras_Icon.png"
+  },
+  {
+    "Id": 168,
+    "Name": "Jhen Mohran",
+    "Subname": "",
+    "Description": "Rare ore can be mined from these enormous dragons\u0027 backs; thus they are considered prosperity symbols. They swallow vast amounts of organic material and are always surrounded by scavenging Delex, which sailors use to locate them.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 6,
+    "Image": "MH3U-Jhen_Mohran_Icon.png"
+  },
+  {
+    "Id": 169,
+    "Name": "Jin Dahaad",
+    "Subname": "",
+    "Description": "A leviathan that sits at the peak of the Iceshard Cliffs\u0027 ecosystem. It surrounds its massive form in cold temperatures via ridge-like cooling organs across its body; the frost its limbs produce doubles as a potent weapon and a way to travel along walls and floating rocks.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Jin_Dahaad_Icon.png"
+  },
+  {
+    "Id": 170,
+    "Name": "Jyuratodus",
+    "Subname": "",
+    "Description": "A large piscine wyvern that inhabits the swamps of the Wildspire Waste. It uses mud to capture prey, and it\u0027s known to battle other monsters over territory.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Piscine Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHW-Jyuratodus_Icon.png"
+  },
+  {
+    "Id": 171,
+    "Name": "Kecha Wacha",
+    "Subname": "",
+    "Description": "Fanged beasts with limbs adapted for swinging through forests and membranes on their forelegs for gliding. When provoked, they shield their faces with giant ears, blocking out any loud noises or bright light.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 3,
+    "Image": "MH4U-Kecha_Wacha_Icon.png"
+  },
+  {
+    "Id": 172,
+    "Name": "Kelbi",
+    "Subname": "",
+    "Description": "Small herbivores known for their gentle demeanor, as well as the medicinal properties of their horns. Those wishing to harvest a horn should stun the Kelbi with strike attacks, then sever the appendage while the animal is still alive.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Herbivore",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 1,
+    "Image": "MH3U-Kelbi_Icon.png"
+  },
+  {
+    "Id": 173,
+    "Name": "Kestodon",
+    "Subname": "",
+    "Description": "Female Kestodon will alert the pack of danger, while the males will violently charge would-be threats. Their rushing charges can be blocked, however, leaving them open to attacks.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Herbivore",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Kestodon_Male_Icon.png"
+  },
+  {
+    "Id": 174,
+    "Name": "Khezu",
+    "Subname": "",
+    "Description": "Loathsome wyverns that dwell in caves and other dark places. All but blind, Khezu hunt by smell, using electric shocks to paralyze their prey before pouncing from high walls and ceilings.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MH4U-Khezu_Icon.png"
+  },
+  {
+    "Id": 175,
+    "Name": "Kirin",
+    "Subname": "",
+    "Description": "Elder dragons so rarely sighted that little is known of their ecology, though everyone knows of the high prices Kirin parts fetch. It\u0027s been said they are one with lightning itself, and that their bodies becomes clothed in pure electricity when they are provoked.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH4U-Kirin_Icon.png"
+  },
+  {
+    "Id": 176,
+    "Name": "Konchu",
+    "Subname": "",
+    "Description": "Neopterons that travel widely for food and can survive in almost any environment. Konchu roll into balls both to protect themselves and to fend off threats. Their sturdy shells are fairly easy to procure and are highly prized by armorers.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 1,
+    "Image": "MH4U-Konchu_Icon.png"
+  },
+  {
+    "Id": 177,
+    "Name": "Kranodath",
+    "Subname": "",
+    "Description": "Carnivores that prowl Oilwell Basin. Their skulls have evolved in a way that lets them expand and contract the plating, and lunge at prey with hammer-like blows. They hunt Gelidron and keep their packs small. There have been accounts of Kranodath engaging larger monsters while feeding, where they cling to the enemy\u0027s skull and stun it with repeated head bashes.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Kranodath_Icon.png"
+  },
+  {
+    "Id": 178,
+    "Name": "Kulu-Ya-Ku",
+    "Subname": "",
+    "Description": "An odd bird wyvern that has developed limbs capable of carrying weapons. It\u0027s been spotted stealing eggs from nests found in the Ancient Forest and Wildspire Waste.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Kulu-Ya-Ku_Icon.png"
+  },
+  {
+    "Id": 179,
+    "Name": "Kulve Taroth",
+    "Subname": "",
+    "Description": "An elder dragon that protects itself with a glittering coat of metal. Its ecology and coat differ with each appearance, thus the need for a thorough investigation.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHW-Kulve_Taroth_Icon.png"
+  },
+  {
+    "Id": 180,
+    "Name": "Kushala Daora",
+    "Subname": "",
+    "Description": "It\u0027s difficult to even get close to one of these metallic dragons, but some claim better odds if the creature is weakened with poison, or has another hunter on its back, limiting the amount of wind pressure it can muster.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon",
+      "Ice"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MH4U-Kushala_Daora_Icon.png"
+  },
+  {
+    "Id": 181,
+    "Name": "Lagiacrus",
+    "Subname": "",
+    "Description": "Leviathans that exist at the top of the aquatic food chain. Feared by sailors as the \u0022Lords of the Seas\u0022, Lagiacrus store enough electricity in their spinal organs to make the oceans surge. Occasionally they can be found resting on land as well.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Lagiacrus_Icon.png"
+  },
+  {
+    "Id": 182,
+    "Name": "Lagombi",
+    "Subname": "",
+    "Description": "Fanged beasts whose warm pelts and thick layers of fat help them to survive in harsh colder climates. Though mainly herbivores, Lagombi occasionally make use of their exceptional hearing and ability to glide on ice to sneak up on live prey.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 3,
+    "Image": "MH3U-Lagombi_Icon.png"
+  },
+  {
+    "Id": 183,
+    "Name": "Lala Barina",
+    "Subname": "",
+    "Description": "Temnocerans native to the Scarlet Forest with distinctive, pirouette-like movements. Their fluids contain a neuroplegic agent which they mix with water to produce red, petal-like bristles on their abdomens. When agitated, Lala Barina open these bristles like a deadly, blossoming flower and release them as florets that paralyze whatever they come into contact with.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Temnoceran",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Lala_Barina_Icon.png"
+  },
+  {
+    "Id": 184,
+    "Name": "Lao-Shan Lung",
+    "Subname": "",
+    "Description": "A giant dragon that has only been rarely sighted. It periodically prowls close to inhabited areas, and the damage it causes is comparable to that wreaked by a natural disaster. Its habits are a mystery, and no one knows why it occasionally wanders. The Guild has built defensive barricades where they appear, but to what effect.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 7,
+    "Image": "MHGU-Lao-Shan_Lung_Icon.png"
+  },
+  {
+    "Id": 185,
+    "Name": "Larinoth",
+    "Subname": "",
+    "Description": "These giant herbivores are peaceful towards hunters unless their young are threatened. Their long necks let them eat hard-to-reach leaves and nuts, which they may drop if attacked while feeding, and eat constantly to maintain their size. They also have a unique sound-producing organs.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Herbivore",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 1,
+    "Image": "MHGen-Larinoth_Icon.png"
+  },
+  {
+    "Id": 186,
+    "Name": "Lavasioth",
+    "Subname": "",
+    "Description": "A piscine wyvern that resides in magma. Its scales are covered by layers of cooled magma, providing it with formidable defense. It swims around in lava, sucking in molten rock to spew at its prey. Its peculiar biology makes it a popular research subject.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Piscine Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MHGen-Lavasioth_Icon.png"
+  },
+  {
+    "Id": 187,
+    "Name": "Legiana",
+    "Subname": "",
+    "Description": "The apex monster of the Coral Highlands, whose diet primarily consists of Raphinos. It emits a chilling wind from its body, which dulls its prey\u0027s ability to escape.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHW-Legiana_Icon.png"
+  },
+  {
+    "Id": 188,
+    "Name": "Leshen",
+    "Subname": "",
+    "Description": "Dwelling deep inside the forest, these creatures use their innate magic to control all flora and fauna within their territory.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Relicts",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Leshen_Icon.png"
+  },
+  {
+    "Id": 189,
+    "Name": "Lucent Nargacuga",
+    "Subname": "",
+    "Description": "A rare species of Nargacuga whose behavior and habitat are shrouded in mystery. Legend claims it appears on foggy nights at a remote and well-hidden location, but the veracity of this claim is still being researched by the guild.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MH3U-Lucent_Nargacuga_Icon.png"
+  },
+  {
+    "Id": 190,
+    "Name": "Ludroth",
+    "Subname": "",
+    "Description": "Aquatic female monsters. Ludroth form \u0022harems\u0022 around large males, hence gathering in territories designated as breeding grounds. They are known to be extremely aggressive towards outsiders; caution is advised.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 2,
+    "Image": "MH3U-Ludroth_Icon.png"
+  },
+  {
+    "Id": 191,
+    "Name": "Lunagaron",
+    "Subname": "",
+    "Description": "Lunagaron have an organ that chills the air they inhale, circulating it throughout their body in a unique form of thermoregulation. They can travel long distances and endure environmental changes, allowing them to occupy a wide range of habitats. They usually walk on all fours, but can stand on two legs by shutting down their cooling mechanism, spiking their body temp to expand their muscles.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 7,
+    "Image": "MHRS-Lunagaron_Icon.png"
+  },
+  {
+    "Id": 192,
+    "Name": "Lunastra",
+    "Subname": "",
+    "Description": "A rare female Elder Dragon that litters the air with hot blue dust. Reports of it traveling with her mate, Teostra, are unconfirmed.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire",
+      "Dragon"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHW-Lunastra_Icon.png"
+  },
+  {
+    "Id": 193,
+    "Name": "Maccao",
+    "Subname": "",
+    "Description": "Colorful red and green bird wyverns that live in large packs, they can be found mostly in the Jurassic Frontier. Though they attack prey aggressively with their strong legs, they are known to flee once their leader is in danger.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MHGen-Maccao_Icon.png"
+  },
+  {
+    "Id": 194,
+    "Name": "Magma Almudron",
+    "Subname": "",
+    "Description": "Unlike normal Almudron, Magma Almudron live in the Lava Caverns, and can manipulate magma instead of mud. They secrete a special liquid that melts the ground, allowing them to move freely through the earth. Known for their aggressive nature, they become extremely agitated when trespassers set foot on their turf, attacking them relentlessly.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 7,
+    "Image": "MHRS-Magma_Almudron_Icon.png"
+  },
+  {
+    "Id": 195,
+    "Name": "Magnamalo",
+    "Subname": "",
+    "Description": "A monster with a carapace like tempered steel armor. The vapor around it is actually the expelling of trapped gases from the hordes of monsters Magnamalo has consumed. This has earned it the moniker \u0022Wyvern of Malice.\u0022 Its shrouded swings can inflict hellfireblight, which causes one to combust either spontaneously or when hit. Use a Deodorant or a Wirebug to rid yourself of hellfire.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 7,
+    "Image": "MHRise-Magnamalo_Icon.png"
+  },
+  {
+    "Id": 196,
+    "Name": "Makili Pietru",
+    "Subname": "",
+    "Description": "Legendary black dragon. Darkens the skies, swallows up light; the very embodiment of despair.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire",
+      "Thunder",
+      "Ice",
+      "Dragon"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHST-Makili_Pietru_Icon.png"
+  },
+  {
+    "Id": 197,
+    "Name": "Malfestio",
+    "Subname": "",
+    "Description": "A bird wyvern which is most at home in the dark. It catches prey with its wings and talons. Its pivoting neck is characteristic, and it\u0027s worth a look to see it turned completely around to look behind itself. Scales in its wings can scatter a pollen that can cause confuse its foes.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 4,
+    "Image": "MHGen-Malfestio_Icon.png"
+  },
+  {
+    "Id": 198,
+    "Name": "Malzeno",
+    "Subname": "",
+    "Description": "A dragon covered with elegant silver scales. It uses the Qurio to drain the life energy of other living creatures, creeping around at night and attacking its prey from behind. It appears almost regal to start with, but after draining enough energy, it can turn a violent, fresh-blood crimson. This form is known as the \u0022Bloodening\u0022 and is widely feared.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon"
+    ],
+    "ThreatLevel": 8,
+    "Image": "MHRS-Malzeno_Icon.png"
+  },
+  {
+    "Id": 199,
+    "Name": "Melynx",
+    "Subname": "",
+    "Description": "Bipedal creatures resembling cats, known for their dark hair. more curious then Felynes and possessed by kleptomania, Melynxes take what they steal back to their dens. Felvine intoxicates them, causing them to sometimes drop items.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Lynian",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH3U-Melynx_Icon.png"
+  },
+  {
+    "Id": 200,
+    "Name": "Mernos",
+    "Subname": "",
+    "Description": "Wingdrakes that feast on scatternuts. The flock will travel great distances when startled, making them an invaluable mode of transportation for clever hunters.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Wingdrake",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Mernos_Icon.png"
+  },
+  {
+    "Id": 201,
+    "Name": "Mizutsune",
+    "Subname": "",
+    "Description": "A specially evolved Leviathan with a sleek, lithe body. Mizutsune can secrete a peculiar fluid that covers its foes in immobilizing bubbles. Once its foe\u0027s movement is impaired, it closes in with spry, dance-like movements.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MHGen-Mizutsune_Icon.png"
+  },
+  {
+    "Id": 202,
+    "Name": "Molten Tigrex",
+    "Subname": "",
+    "Description": "A rare Tigrex variant theorized to exist after the discovery of claw marks and prints far larger than those of an ordinary Tigrex. With no confirmed first-hand sightings, its existence remains a matter of debate among hunters.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 6,
+    "Image": "MH4U-Molten_Tigrex_Icon.png"
+  },
+  {
+    "Id": 203,
+    "Name": "Monoblos",
+    "Subname": "",
+    "Description": "A monocerous desert-dwelling wyvern able to burrow swiftly through the sand. It puts its horn to lethal use with a charging thrust, and while it possesses no breath attack, its roar is loud enough to split human eardrums.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 5,
+    "Image": "MH4U-Monoblos_Icon.png"
+  },
+  {
+    "Id": 204,
+    "Name": "Moofah",
+    "Subname": "",
+    "Description": "Small herbivores that can be found on the Deserted Island. Their soft, high-quality fur has been used since ancient times in clothing and ceremonial tools, and can be shaved off of them with cutting weapons. They are docile and raised as livestock in many regions.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Herbivore",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 1,
+    "Image": "MHGen-Moofah_Icon.png"
+  },
+  {
+    "Id": 205,
+    "Name": "Mosswine",
+    "Subname": "",
+    "Description": "Wild pigs covered in moss and fungus. Sometimes you will even find mushrooms growing on them. Their meat is known as a delicacy, and although normally docile, they will charge when provoked.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Herbivore",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 1,
+    "Image": "MHGen-Mosswine_Icon.png"
+  },
+  {
+    "Id": 206,
+    "Name": "Najarala",
+    "Subname": "",
+    "Description": "A monster that stuns its prey with vibrations from its scales, then wraps around and constricts its victims. Should a Najarala start to coil around you, a quick escape or quick kill are your only chances of survival.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Snake Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 4,
+    "Image": "MH4U-Najarala_Icon.png"
+  },
+  {
+    "Id": 207,
+    "Name": "Nakarkos",
+    "Subname": "",
+    "Description": "Frighteningly little is known about this elder dragon whose appetite can devastate surrounding ecosystems. After covering its prey in a repulsive mucus, it has been seen dragging them back to feast in its macabre nest of bones and undulating darkness known as Wyvern\u0027s End.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon"
+    ],
+    "ThreatLevel": 8,
+    "Image": "MHGen-Nakarkos_Icon.png"
+  },
+  {
+    "Id": 208,
+    "Name": "Namielle",
+    "Subname": "",
+    "Description": "An elder dragon coated in water and able to freely control lightning. A unique organ allows it to pump electricity into the pools of water it creates, causing massive bursts of steam.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water",
+      "Thunder"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Namielle_Icon.png"
+  },
+  {
+    "Id": 209,
+    "Name": "Nargacuga",
+    "Subname": "",
+    "Description": "Flying wyverns that have evolved to live in thickly wooded areas. These sly beasts stalk their prey from the shadows with ferocious speed and dogged tenacity, and their massive tails are as dexterous as they are deadly.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 4,
+    "Image": "MH3U-Nargacuga_Icon.png"
+  },
+  {
+    "Id": 210,
+    "Name": "Narwa the Allmother",
+    "Subname": "",
+    "Description": "Having absorbed the lifeforce of her \u0022king\u0022, Narwa has transformed and become imbued with new power. She now possesses Ibushi\u0027s mastery over wind as well as her own control over thunder, and lusts for utter annihilation.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 10,
+    "Image": "MHRise-Narwa_The_Allmother_Icon.png"
+  },
+  {
+    "Id": 211,
+    "Name": "Nergigante",
+    "Subname": "",
+    "Description": "A terrible elder dragon that appears when other elders are in the vicinity. Its penchant for destruction is well documented.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Nergigante_Icon.png"
+  },
+  {
+    "Id": 212,
+    "Name": "Nerscylla",
+    "Subname": "",
+    "Description": "A Temnoceran that spins webs to defend territory and hunt prey. They bind foes that have been weakened by ailments and devour them with giant mandibles. They are fond of wearing the hides left by the Gypceros prey they consume.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Temnoceran",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 4,
+    "Image": "MH4U-Nerscylla_Icon.png"
+  },
+  {
+    "Id": 213,
+    "Name": "Nerscylla Hatchling",
+    "Subname": "",
+    "Description": "The larval form of a temnoceran that inhabits the Iceshard Cliffs. At this stage they cannot use webbing or status ailments like adult Nerscylla, but these little fellows like to gang up. surround prey, and then pounce all at once.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Temnoceran",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Nerscylla_Hatchling_Icon.png"
+  },
+  {
+    "Id": 214,
+    "Name": "Nibelsnarf",
+    "Subname": "",
+    "Description": "Leviathans that have adapted to live in sandy areas. They burrow beneath the desert and locate prey aurally, then suck both the target and any surrounding sand into their maws. The gill-like organs in their mouths are thought to absorb nutrients.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 4,
+    "Image": "MH3U-Nibelsnarf_Icon.png"
+  },
+  {
+    "Id": 215,
+    "Name": "Nightcloak Malfestio",
+    "Subname": "",
+    "Description": "This huge bird wyvern with its twilight-colored wings uses special scales to refract light and hide itself from its prey. This is why it\u0027s also known as \u0022Nightcloak\u0022. Whoever or whatever sees it, be they monster or human, stands no chance of survival. Requires special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 5,
+    "Image": "MHGU-Nightcloak_Malfestio_Icon.png"
+  },
+  {
+    "Id": 216,
+    "Name": "Nightshade Paolumu",
+    "Subname": "",
+    "Description": "A Paolumu subspecies capable of putting prey to sleep. It produces a powerful sedative gas stored within its throat sac that it can expel and scatter to knock unwary foes out.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Nightshade_Paolumu_Icon.png"
+  },
+  {
+    "Id": 217,
+    "Name": "Noios",
+    "Subname": "",
+    "Description": "Wingdrakes that will produce a sound similar to screamer pods when startled. Use meat to get their attention, and then hunt them for materials, or use them as transportation",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Wingdrake",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Noios_Icon.png"
+  },
+  {
+    "Id": 218,
+    "Name": "Nu Udra",
+    "Subname": "",
+    "Description": "The cephalopod that reigns supreme over Oilwell Basin\u0027s ecosystem. Usually, when sighted, Nu Udra is covered in oilsilt, but when enraged it will ignite the coating, transfiguring itself into a horror of flame. The oculi that appear on its body and mant arms are presumed to be sensory organs, but the truth is still being investigated.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Cephalopod",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Nu_Udra_Icon.png"
+  },
+  {
+    "Id": 219,
+    "Name": "Odogaron",
+    "Subname": "",
+    "Description": "A terrifying monster that scours the Rotten Vale for carrion. Its highly aggressive nature means that anything, be it monster or man, is a potential meal.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Odogaron_Icon.png"
+  },
+  {
+    "Id": 220,
+    "Name": "Oltura",
+    "Subname": "",
+    "Description": "From the pit in the Forbidden Grounds of Hakolo Island emerged the cradle of destruction\u2014Oltura. When the reborn wings of this constantly evolving foe all become illuminated, a terrible power will be unleashed...",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire",
+      "Water",
+      "Thunder",
+      "Ice",
+      "Dragon"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHST2-Oltura_Icon.png"
+  },
+  {
+    "Id": 221,
+    "Name": "Oroshi Kirin",
+    "Subname": "",
+    "Description": "Reliable sightings of these elusive creatures are virtually nonexistent. The few reports available claim that temperatures plummet whenever they appear, as all moisture in the air spontaneously freezes.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH4U-Oroshi_Kirin_Icon.png"
+  },
+  {
+    "Id": 222,
+    "Name": "Paolumu",
+    "Subname": "",
+    "Description": "Paolumu feast on eggs found in the Coral Highlands. They are able to propel through the air using unique sacs in their bodies, and attack with their extremely hard tails.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Paolumu_Icon.png"
+  },
+  {
+    "Id": 223,
+    "Name": "Pink Rathian",
+    "Subname": "",
+    "Description": "A subspecies of Rathian with vibrant pink scales. Pink Rathian wield their toxic tails more skillfully than normal Rathian, using a wide variety of attacks to weaken their prey before eventually moving in for the kill.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MH3U-Pink_Rathian_Icon.png"
+  },
+  {
+    "Id": 224,
+    "Name": "Piragill",
+    "Subname": "",
+    "Description": "Leviathans whose bodies are covered with beautiful scales and sharp blades. As a pack, they work together to surround prey, but since most Piragill are too timid to make the kill, they usually wait for an opening and lunge all at once. Don\u0027t underestimate them; on water, their speed is unmatched, and those blades will make mincemeat of a hunter that wanders too close.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWs_Piragill_Icon.png"
+  },
+  {
+    "Id": 225,
+    "Name": "Plesioth",
+    "Subname": "",
+    "Description": "Giant piscine wyverns with swift and varied underwater movements, as well as deadly breath and charging attacks. Plesioth are agitated by loud noises, so approach warily. Their favorite food is frogs.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Piscine Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Plesioth_Icon.png"
+  },
+  {
+    "Id": 226,
+    "Name": "Plum Daimyo Hermitaur",
+    "Subname": "",
+    "Description": "A large Carapaceon characterized by its distinct coloring and the massive monster skull it carries on its back. Unlike more common varieties, it leaps high into the air and onto foes, making it especially deadly.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Carapaceon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MH4U-Plum_Daimyo_Hermitaur_Icon.png"
+  },
+  {
+    "Id": 227,
+    "Name": "Popo",
+    "Subname": "",
+    "Description": "Herd-forming herbivores covered in thick fur to endure the cold. Popo are gentle, but known to use their massive tusks bravely when defending their young. Popo meat is very nutritious; the tongue is said to be especially palatable.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Herbivore",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 1,
+    "Image": "MH3U-Popo_Icon.png"
+  },
+  {
+    "Id": 228,
+    "Name": "Porkeplume",
+    "Subname": "",
+    "Description": "Bird wyverns that live in herds at the heart of the Ruins of Wyveria. Porkeplumes are extremely timid and will protect themselves against threats by puffing out the bristles on their heads. If the situation escalates, a member of the herd will slam into the foe with its bristles, giving the other members a window to escape. The head bristles can be used as bleeding pods for the Slinger.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Porkeplume_Icon.png"
+  },
+  {
+    "Id": 229,
+    "Name": "Primordial Malzeno",
+    "Subname": "",
+    "Description": "Malzeno\u0027s original form before it was tainted by the Qurio. Ordinarily, it uses its wings and tail with the elegance of a knight, but under the Qurio\u0027s influence, it uses underhanded means of cornering its prey, and in its \u0022Bloodlust\u0022 state it wields tremendous power. Because of the explosive energy corrupting its body, it sometimes shows behavior as if its struggling against an overwhelming force.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon"
+    ],
+    "ThreatLevel": 10,
+    "Image": "MHRS-Primordial_Malzeno_Icon.png"
+  },
+  {
+    "Id": 230,
+    "Name": "Pukei-Pukei",
+    "Subname": "",
+    "Description": "A bird wyvern known to possess poisonous toxins in its body. It\u0027s been spotted storing scatternuts in its mouth or tail, coating them with poison and spitting them out at threats.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Pukei-Pukei_Icon.png"
+  },
+  {
+    "Id": 231,
+    "Name": "Purple Gypceros",
+    "Subname": "",
+    "Description": "A Gypceros variant distinguished by its unique purple hide. They are extremely resistant to poison, and can spit copious amounts of highly venomous saliva.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 4,
+    "Image": "MH4U-Purple_Gypceros_Icon.png"
+  },
+  {
+    "Id": 232,
+    "Name": "Purple Ludroth",
+    "Subname": "",
+    "Description": "A Royal Ludroth subspecies with a spongy purple mane that can both store and disperse a powerful toxin. Moistening this mane seems to revitalize the creature, so it prefers to reside in watery areas.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 3,
+    "Image": "MH3U-Purple_Ludroth_Icon.png"
+  },
+  {
+    "Id": 233,
+    "Name": "Pyrantula",
+    "Subname": "",
+    "Description": "Offspring of the Pyre Rakna-Kadaki. Pyrantula usually stay put, relying on their progenitor for almost all movement. On the other hand, they treat all who approach as threats, eagerly attacking all invaders they detect. Their bodies contain explosive gasses that the Pyre Rakna-Kadaki can detonate through webs, generating small explosions.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Temnoceran",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHRS-Pyrantula_Icon.png"
+  },
+  {
+    "Id": 234,
+    "Name": "Pyre Rakna-Kadaki",
+    "Subname": "",
+    "Description": "A subspecies of Rakna-Kadaki filled with explosive material, their bodies are covered in a dark red, explosion-resistant webbing. An advanced chain of command lets them direct their offspring with a special sound-producing organ. On offense, they strike their forelimbs like flints to induce explosions. Connecting special detonation threads to offspring in the area lets them expand the explosive area to their positions.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Temnoceran",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 7,
+    "Image": "MHRS-Pyre_Rakna-Kadaki_Icon.png"
+  },
+  {
+    "Id": 235,
+    "Name": "Quematrice",
+    "Subname": "",
+    "Description": "Brute wyverns with disproportionately long tails. They spread a flammable substance which vaporizes quickly, then ignite it by dragging their tails along the ground. By nature, Quematrice rarely hunt their own prey, and instead scavenge herbivore carrion left behind by other predators. This often leads to confrontations with other, smaller carnivores.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Quematrice_Icon.png"
+  },
+  {
+    "Id": 236,
+    "Name": "Qurupeco",
+    "Subname": "",
+    "Description": "Bird Wyverns with unique plumage. Well known for using their thoracic vocal organs to imitate others monsters calls, first summoning them, then using the distraction to flee. The creature spits a dangerous body fluid that can lower one\u0027s Resistance.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 3,
+    "Image": "MH3U-Qurupeco_Icon.png"
+  },
+  {
+    "Id": 237,
+    "Name": "Rachnoid",
+    "Subname": "",
+    "Description": "The infant form of Rakna-Kadaki. At this stage in their life cycle, they cling to their mother\u0027s abdomen, feeding on scraps of her regurgitated prey. From birth, they are instantly able to spit webs that are just as strong as their mother\u0027s, which they use to bind prey or swiftly move about at her command.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Temnoceran",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHRise-Rachnoid_Icon.png"
+  },
+  {
+    "Id": 238,
+    "Name": "Radobaan",
+    "Subname": "",
+    "Description": "A gigantic brute wyvern that eats the bones of carcasses found in the Rotten Vale, using some of it as armor. It also rolls into a ball as a form of attack and transportation.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Radobaan_Icon.png"
+  },
+  {
+    "Id": 239,
+    "Name": "Rafma",
+    "Subname": "",
+    "Description": "Herbivores that live primarily in cold regions. Rafma form herds with a large alpha at the head. When threatened, the alpha discharges static energy stored in its horn to shock foes and defend the herd. This horn can also be targeted with the Hook Slinger to get paralytic ammo. Rafma have been sighted moving along dizzyingly steep cliffsides, to the wonderment of observers.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Herbivore",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Rafma_Icon.png"
+  },
+  {
+    "Id": 240,
+    "Name": "Raging Brachydios",
+    "Subname": "",
+    "Description": "",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MH4U-Raging_Brachydios_Icon.png"
+  },
+  {
+    "Id": 241,
+    "Name": "Rajang",
+    "Subname": "",
+    "Description": "An ultra-aggressive creature that is rarely sighted and seldom survived. Survivors report it exhibits a strange attack. The Rajang is said to be a loner, and this isolated life has made it difficult to pin down its territorial leanings.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MH4U-Rajang_Icon.png"
+  },
+  {
+    "Id": 242,
+    "Name": "Rakna-Kadaki",
+    "Subname": "",
+    "Description": "A Rakna-Kadaki is usually seen covered in sticky webbing. Clinging to its abdomen are its offspring, known as Rachnoid, which it controls using the flammable gas that builds up there. Rachnoid spit fire, capture prey, and support the Rakna-Kadaki\u0027s massive body. As their numbers dwindle, the beast will hatch more, at which point it is extremely dangerous.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Temnoceran",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 7,
+    "Image": "MHRise-Rakna-Kadaki_Icon.png"
+  },
+  {
+    "Id": 243,
+    "Name": "Raphinos",
+    "Subname": "",
+    "Description": "Wingdrakes inhabiting the Coral Highlands. They group up to steal the eggs of other animals, but this in turn exposes them to the attention of larger, more vicious predators.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Wingdrake",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Raphinos_Icon.png"
+  },
+  {
+    "Id": 244,
+    "Name": "Rathalos",
+    "Subname": "",
+    "Description": "Terrible wyverns called the \u0027Kings of the Skies\u0027. Together with Rathian, they stake wide territories centered around their nests. Rathalos descend on invaders from the sky, attacking with poison claws and breath of fire.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MH3U-Rathalos_Icon.png"
+  },
+  {
+    "Id": 245,
+    "Name": "Rathian",
+    "Subname": "",
+    "Description": "Fire-breathing female wyverns, also known as the \u0022Queens of the Land\u0022. With powerful legs and poison-secreting tails, they hunt mainly on the ground. Sometimes seen preying as a couple, Rathian cooperate well with Rathalos.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MH3U-Rathian_Icon.png"
+  },
+  {
+    "Id": 246,
+    "Name": "Red Khezu",
+    "Subname": "",
+    "Description": "A ghastly Khezu variant with a crimson hue and a much more aggressive temperament. Their electrical organs are further developed as well, giving them a wider variety of attacks to disable and ensnare prey.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MH4U-Red_Khezu_Icon.png"
+  },
+  {
+    "Id": 247,
+    "Name": "Redhelm Arzuros",
+    "Subname": "",
+    "Description": "A ruffian known for its wild, red mane of hair. Unrivaled in its cruelty, sightings of a Redhelm near human settlements is a serious call for alarm, though very few can handle hunting it. As it\u0027s far more likely for a would-be hunter to end up as its lunch, it requires special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 5,
+    "Image": "MHGen-Redhelm_Arzuros_Icon.png"
+  },
+  {
+    "Id": 248,
+    "Name": "Remobra",
+    "Subname": "",
+    "Description": "Small but agile flying wyverns that seek out weakened creatures to attack. Often seen near elder dragons, they\u0027re considered a portent of disaster. The discovery of Najarala led to their reclassification as Snake Wyverns.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Snake Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH4U-Remobra_Icon.png"
+  },
+  {
+    "Id": 249,
+    "Name": "Rey Dau",
+    "Subname": "",
+    "Description": "The flying wyvern that reigns supreme over the Windward Plains\u0027 ecosystem. It has adapted to the Sandtide - when it most frequently appears - and is able to store, amplify and discharge the storm\u0027s heavy lightning to lethal effect. Rey Dau is highly territorial and will attack any and all intruders on sight. The fulgurite against its carapace emits a sound that puts every monster in the region on guard.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Rey_Dau_Icon.png"
+  },
+  {
+    "Id": 250,
+    "Name": "Rhenoplos",
+    "Subname": "",
+    "Description": "Extremely territorial herbivores with poor vision, but very acute hearing. Rhenoplos will doggedly pursue any nearby target they sense. They often collide into boulders, perhaps because they cannot easily stop once they begin to run.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Herbivore",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH3U-Rhenoplos_Icon.png"
+  },
+  {
+    "Id": 251,
+    "Name": "Risen Chameleos",
+    "Subname": "",
+    "Description": "Risen Chameleos are elder dragons that have found a way to overcome their affliction. By suppressing the Qurio virus, they have gained great strength and new abilities. They now boast superior poison and physicality, sending you off into a toxic nightmare if you lose sight of them. When their anger reaches its peak, they\u0027ll enter into their Risen state and their body will begin to glow.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 10,
+    "Image": "MHRS-Risen_Chameleos_Icon.png"
+  },
+  {
+    "Id": 252,
+    "Name": "Risen Kushala Daora",
+    "Subname": "",
+    "Description": "Risen Kushala Daora are elder dragons that have found a way to overcome their affliction. By suppressing the Qurio virus, they have gained great strength and new abilities. They command destructive storms easily cornering their prey with a more varied arsenal of attacks than their regular counterparts. When their anger reaches its peak, they\u0027ll enter into their Risen state and their body will begin to glow.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon",
+      "Ice"
+    ],
+    "ThreatLevel": 10,
+    "Image": "MHRS-Risen_Kushala_Daora_Icon.png"
+  },
+  {
+    "Id": 253,
+    "Name": "Risen Shagaru Magala",
+    "Subname": "",
+    "Description": "Risen Shagaru Magala are elder dragons that have found a way to overcome their affliction. By suppressing the Qurio virus, they have gained great strength and new abilities. They release larger quantities of the Frenzy virus, resulting in viral explosions with increased radius. Anything that gets in their way will fall prey to their powerful wingarms. When their anger reaches its peak, they\u0027ll enter into their Risen state and their body will begin to glow.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 10,
+    "Image": "MHRS-Risen_Shagaru_Magala_Icon.png"
+  },
+  {
+    "Id": 254,
+    "Name": "Risen Teostra",
+    "Subname": "",
+    "Description": "Risen Teostra are elder dragons that have found a way to overcome their affliction. By suppressing the Qurio virus, they have gained great strength and new abilities. While clad in flame, Risen Teostra unleash more dust creating a non-stop barrage of explosions until everything in the vicinity has been turned to ashes. When their anger reaches its peak, they\u0027ll enter into their Risen state and their body will begin to glow.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 10,
+    "Image": "MHRS-Risen_Teostra_Icon.png"
+  },
+  {
+    "Id": 255,
+    "Name": "Risen Crimson Glow Valstrax",
+    "Subname": "",
+    "Description": "Risen Crimson Glow Valstrax are elder dragons that have found a way to overcome their affliction. By suppressing the Qurio virus, they have gained great strength and new abilities. Their abundance of dragon energy has granted them greater agility, and even more devastating explosive powers. Very few will be able to withstand their ferocious attacks. When their anger reaches its peak, they\u0027ll enter into their Risen state and their body will begin to glow.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon"
+    ],
+    "ThreatLevel": 10,
+    "Image": "MHRS-Risen_Crimson_Glow_Valstrax_Icon.png"
+  },
+  {
+    "Id": 256,
+    "Name": "Rompopolo",
+    "Subname": "",
+    "Description": "Dappled brute wyverns that prowl Oilwell Basin. They use their tails to inject gas into the ground and detonate it, then feed on the small creatures that are unearthed. The toxic gas they spray from their tongues serve to weaken prey, which they then finish off with the blasts. Rompopolo are extremely territorial and will readily engage their own kind.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Rompopolo_Icon.png"
+  },
+  {
+    "Id": 257,
+    "Name": "Royal Ludroth",
+    "Subname": "",
+    "Description": "Royal Ludroth use their sponge-like neck scales to absorb water and keep from drying out on land. Once the sponge loses moisture, they attempt to re-enter the water. They also spew mucus to trip up their prey.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 3,
+    "Image": "MH3U-Royal_Ludroth_Icon.png"
+  },
+  {
+    "Id": 258,
+    "Name": "Ruby Basarios",
+    "Subname": "",
+    "Description": "A Basarios variant that scatters crystals from its back to fend off attackers, offering those nearby a chance to mine for rare minerals. Jump on one when its back carapace is broken to make it roll over and expose its weak underbelly.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MH4U-Ruby_Basarios_Icon.png"
+  },
+  {
+    "Id": 259,
+    "Name": "Ruiner Nergigante",
+    "Subname": "",
+    "Description": "Countless battles have only hardened this Nergigante variant. In addition to healing, its spikes grow tougher as it loses health.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Ruiner_Nergigante_Icon.png"
+  },
+  {
+    "Id": 260,
+    "Name": "Rust Duramboros",
+    "Subname": "",
+    "Description": "A reddish-brown subspecies of Duramboros with an axe-shaped tail. The tail is especially well-suited to desert life, as it scatters sand each time it is swung. Despite the desert heat, these creatures can remain active for long periods of time.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Rust_Duramboros_Icon.png"
+  },
+  {
+    "Id": 261,
+    "Name": "Rusted Kushala Daora",
+    "Subname": "",
+    "Description": "",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MH4U-Rusted_Kushala_Daora_Icon.png"
+  },
+  {
+    "Id": 262,
+    "Name": "Rustrazor Ceanataur",
+    "Subname": "",
+    "Description": "The Rustrazor Ceanataur uses its huge pincers and the shell on its back to attack any assailants. From its Gravios shell it shoots jets of water that drill into the ground, and its Glavenus-shaped pincers can shear through steel. This two-sided nature makes it a force to be reckoned with, and earned it the name \u0022Rustrazor\u0022. Requires special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Carapaceon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MHGU-Rustrazor_Ceanataur_Icon.png"
+  },
+  {
+    "Id": 263,
+    "Name": "Safi\u0027jiiva",
+    "Subname": "",
+    "Description": "The fully-grown form of Xeno\u0027jiiva. It absorbs energy from its environment to heal itself and change the ecosystem.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Safijiiva_Icon.png"
+  },
+  {
+    "Id": 264,
+    "Name": "Sand Barioth",
+    "Subname": "",
+    "Description": "A Barioth subspecies that resides in the Sandy Plains. Their breath is strong enough to generate tornadoes, which they then use to travel at high speeds. Their yellow carapaces are tinted red, and their fangs shine deep blue when polished.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Sand_Barioth_Icon.png"
+  },
+  {
+    "Id": 265,
+    "Name": "Savage Deviljho",
+    "Subname": "",
+    "Description": "The dreaded, nomadic Deviljho have no specific territory of their own. Their muscles swell if provoked, revealing old wounds. Needing to feed constantly due to high body heat, they can hunt nearby animals to extinction.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MH3U-Deviljho_Icon.png"
+  },
+  {
+    "Id": 266,
+    "Name": "Scarred Yian Garuga",
+    "Subname": "",
+    "Description": "A close relative of the Yian Kut-Ku known for its hard black shell and tufts of white mane. These clever monsters are known to avoid traps and use their poisonous tail to deadly effect; they are not to be taken lightly.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH4U-Yian_Garuga_Icon.png"
+  },
+  {
+    "Id": 267,
+    "Name": "Scorned Magnamalo",
+    "Subname": "",
+    "Description": "A Magnamalo variant that achieves an even more twisted, malevolent form. Filled with hatred, they are known as \u0022Scorned Magnamalo.\u0022 Shrouded in Hellfire at all times, they also boast larger arm blades and harder armor plating. During battles, they have been spotted focusing their Hellfire and swinging it like a blade.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 10,
+    "Image": "MHRS-Scorned_Magnamalo_Icon.png"
+  },
+  {
+    "Id": 268,
+    "Name": "Seething Bazelgeuse",
+    "Subname": "",
+    "Description": "The scales of this Bazelgeuse variant burn hotter than normal, increasing in number and explosion radius as time passes.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Seething_Bazelgeuse_Icon.png"
+  },
+  {
+    "Id": 269,
+    "Name": "Seltas",
+    "Subname": "",
+    "Description": "Neopterons that use swift aerial movements to attack invaders on the ground. The sharp appendages on their heads can make their lunging attacks quite dangerous, though they sometimes overshoot their targets and slam into the ground.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Neopteron",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 3,
+    "Image": "MH4U-Seltas_Icon.png"
+  },
+  {
+    "Id": 270,
+    "Name": "Seltas Queen",
+    "Subname": "",
+    "Description": "Unable to fly by themselves, these wingless female Neopterons release pheromones to lure in male Seltas to serve as thralls. Seltas Queens possess an extremely heavy carapace, but their mucus-spewing maw is vulnerable when exposed.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Neopteron",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH4U-Seltas_Queen_Icon.png"
+  },
+  {
+    "Id": 271,
+    "Name": "Seregios",
+    "Subname": "",
+    "Description": "An elusive breed of wyvern only rarely spotted throughout the lands in recent years. Known for its ability to launch razor-edged scales, and for its powerful legs and talons which it uses to latch itself onto its prey.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 5,
+    "Image": "MH4U-Seregios_Icon.png"
+  },
+  {
+    "Id": 272,
+    "Name": "Shagaru Magala",
+    "Subname": "",
+    "Description": "The distinctive radiant light of the mature Gore Magala has been seen in the Sanctuary of Heaven\u0027s Mount. Some believe Shagaru Magala was the \u0022foul wind that withered a mountain,\u0022 a calamity spoken of in ancient texts.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 6,
+    "Image": "MH4U-Shagaru_Magala_Icon.png"
+  },
+  {
+    "Id": 273,
+    "Name": "Shah Dalamadur",
+    "Subname": "",
+    "Description": "A Dalamadur subspecies easily identified by the red spines lining its back. Though they were once thought to exist only in legend, multiple sightings in the past few years have led many to fear Shah Dalamadur as an omen of grave things to come.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 6,
+    "Image": "MH4U-Shah_Dalamadur-Head_Icon.png"
+  },
+  {
+    "Id": 274,
+    "Name": "Shakalaka",
+    "Subname": "",
+    "Description": "Lynians never seen without their masks. Specializing in camouflage, even spotting one is no easy task.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Lynian",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHST-Shakalaka_Icon.png"
+  },
+  {
+    "Id": 275,
+    "Name": "Shamos",
+    "Subname": "",
+    "Description": "Small nocturnal monsters. They are particularly vulnerable to Tzitzi-Ya-Ku\u0027s blinding flash, but have been known to gang up on enemies.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Shamos_Icon.png"
+  },
+  {
+    "Id": 276,
+    "Name": "Shara Ishvalda",
+    "Subname": "",
+    "Description": "A mysterious elder dragon able to manipulate the earth itself. Vibrations from its wingtips reshape the earth, denying hunters footing.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Shara_Ishvalda_Icon.png"
+  },
+  {
+    "Id": 277,
+    "Name": "Shogun Ceanataur",
+    "Subname": "",
+    "Description": "A large Carapaceon with a giant monster\u0027s skull on its back. Its long, sharp pincers allow it to pierce volcanic bedrock and travel along ceilings. Sometimes, a precious and valuable pearl can be found inside its shell.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Carapaceon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MHGen-Shogun_Ceanataur_Icon.png"
+  },
+  {
+    "Id": 278,
+    "Name": "Shrieking Legiana",
+    "Subname": "",
+    "Description": "A Legiana variant shrouded in white frost. It specializes in freezing prey with the powerful chill it emits, then swooping down to strike at them from overhead.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Shrieking_Legiana_Icon.png"
+  },
+  {
+    "Id": 279,
+    "Name": "Shrouded Nerscylla",
+    "Subname": "",
+    "Description": "Desert-dwelling Temnocerans who lure threats into sand traps, then tear into the ensnared prey using their scissor-like mandibles. Similar to their more common cousins, they wear the skins of their prey -- most often Khezu.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Temnoceran",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 4,
+    "Image": "MH4U-Shrouded_Nerscylla_Icon.png"
+  },
+  {
+    "Id": 280,
+    "Name": "Silver Rathalos",
+    "Subname": "",
+    "Description": "A rare variant of Rathalos with a beautiful silver body reminiscent of the sun. Little is known about their behavior or physiology--including the source of their rich silver sheen.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Silver_Rathalos_Icon.png"
+  },
+  {
+    "Id": 281,
+    "Name": "Silverwind Nargacuga",
+    "Subname": "",
+    "Description": "White streaks like polish on a blade. Flashes from a tail that cleave the earth, sunder rock, and split the sky. The \u0022Silverwind\u0022 summons a gale that slices. The careless fool is unaware, until his head falls cleanly from his shoulders. Requires special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 6,
+    "Image": "MHGen-Silverwind_Nargacuga_Icon.png"
+  },
+  {
+    "Id": 282,
+    "Name": "Slagtoth",
+    "Subname": "",
+    "Description": "Herbivores that live near water in the Volcano and Flooded Forest. Their heavy, sagging hides store nutrients, and are prized for their resistance to heat and water. Males are quite territorial, often refusing to flee from even invading wyverns.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Herbivore",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH3U-Slagtoth_Icon.png"
+  },
+  {
+    "Id": 283,
+    "Name": "Snowbaron Lagombi",
+    "Subname": "",
+    "Description": "The outlaw of the frozen wasteland, the \u0022Snowbaron\u0022 can be found jauntily sliding around any territory that it has claimed as its own. Its playful antics, however, can mean one more village buried under an avalanche. A dangerous foe that requires special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MHGen-Snowbaron_Lagombi_Icon.png"
+  },
+  {
+    "Id": 284,
+    "Name": "Somnacanth",
+    "Subname": "",
+    "Description": "A formidable aquatic serpent that crests on moonlit nights\u2014likely why it has often been mistaken for a mermaid. Despite its appearance, it is extremely aggressive, and tolerates no trespassers on its turf. It expels an intoxicating sleep powder from an organ on its neck, knocking out prey before it can resist.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 5,
+    "Image": "MHRise-Somnacanth_Icon.png"
+  },
+  {
+    "Id": 285,
+    "Name": "Soulseer Mizutsune",
+    "Subname": "",
+    "Description": "A Mizutsune that has lost its eyesight but adapted to use its bubbles as another sense. Rumor says that the malice of an undying grudge burns within its closed eyes. Those it catches in its bubbles know the true meaning of its nickname, \u0022Soulseer\u0022. Requires special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire",
+      "Water"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MHGU-Soulseer_Mizutsune_Icon.png"
+  },
+  {
+    "Id": 286,
+    "Name": "Steel Uragaan",
+    "Subname": "",
+    "Description": "A metallic subspecies of Uragaan with an unusual diet that allows it to create a powerful, noxious gas. The gas permeates the rocks on its body, which then emit foul fumes when scattered. Like regular Uragaan, they can travel quickly by rolling.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Steel_Uragaan_Icon.png"
+  },
+  {
+    "Id": 287,
+    "Name": "Stonefist Hermitaur",
+    "Subname": "",
+    "Description": "The \u0022Stonefist\u0022 is a Hermitaur with an enlarged left pincer which doubles as a sturdy black shield. Its armor causes blades to shatter, and for shots to bounce off, filling the Hunter with holes instead. Requires special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Carapaceon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MHGen-Stonefist_Hermitaur_Icon.png"
+  },
+  {
+    "Id": 288,
+    "Name": "Stygian Zinogre",
+    "Subname": "",
+    "Description": "A subspecies of Zinogre with a jet-black body. It gathers bugs that eat Dragonfell Berries and uses their Dragon Element energy to dramatically boost its power. Perhaps this is why it can survive in extreme heat or frigid cold.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Stygian_Zinogre_Icon.png"
+  },
+  {
+    "Id": 289,
+    "Name": "Talioth",
+    "Subname": "",
+    "Description": "Carnivores that prowl the Windward Plains. Their distinct jaw is designed to grab prey and not let go, and they excel at working together to hunt and deal with intruders. It\u0027s not uncommon to see a pack of Talioth take on a bigger monster and win by sheer numbers; a clever hunter will take advantage of this and use Talioth to distract or weaken their main target.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Talioth_Icon.png"
+  },
+  {
+    "Id": 290,
+    "Name": "Teostra",
+    "Subname": "",
+    "Description": "Brutal elder dragons clothed in flame that spit blazing fire. Teostra are of such a fierce and deadly nature that the Guild keeps track of their movements whenever possible.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire",
+      "Dragon"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MH4U-Teostra_Icon.png"
+  },
+  {
+    "Id": 291,
+    "Name": "Tetranadon",
+    "Subname": "",
+    "Description": "An amphibian easily recognized by its gigantic, rotund body. It is extremely gluttonous and swallows everything that moves whole, gravel and all. Once it\u0027s done eating, its stomach swells and it becomes slower, but its attacks also become heavier and much more destructive.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Amphibian",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 2,
+    "Image": "MHRise-Tetranadon_Icon.png"
+  },
+  {
+    "Id": 292,
+    "Name": "Tetsucabra",
+    "Subname": "",
+    "Description": "Amphibians with unique jaws and tusks that they use to sift through rocks for prey. They use their powerful hind legs to traverse steep terrain. The tail supports movement, but can become vulnerable with exertion.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Amphibian",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 3,
+    "Image": "MH4U-Tetsucabra_Icon.png"
+  },
+  {
+    "Id": 293,
+    "Name": "Thunder Serpent Narwa",
+    "Subname": "",
+    "Description": "An elder dragon and Wind Serpent Ibushi\u0027s \u0022queen.\u0022 Its thundersacs glow with accumulated electrical charge; it is thought that these organs therefore generate the powerful magnetic field that lifts the creature and anything around it high into the air.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 10,
+    "Image": "MHRise-Thunder_Serpent_Narwa_Icon.png"
+  },
+  {
+    "Id": 294,
+    "Name": "Thunderlord Zinogre",
+    "Subname": "",
+    "Description": "A Zinogre robed in lightning: the King of the Thunder Wolves is a legend. \u0022With one howl, the heavens loose a thousand flashes, and ten thousand peals of thunder. Approach it not, anger it not -- for the wrath of the \u0027Thunderlord\u0027 shows no mercy.\u0022 Requires special permission to hunt.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MHGen-Thunderlord_Zinogre_Icon.png"
+  },
+  {
+    "Id": 295,
+    "Name": "Tidal Najarala",
+    "Subname": "",
+    "Description": "A Najarala subspecies that makes deadly use of its long body. Tidal Najarala respond to threats by spitting a watery substance at targets and have even been known to use their own scales to deflect this liquid bile so that they can snipe at more elusive prey.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Snake Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MH4U-Tidal_Najarala_Icon.png"
+  },
+  {
+    "Id": 296,
+    "Name": "Tigerstripe Zamtrios",
+    "Subname": "",
+    "Description": "Unlike its standard counterpart, this distinctively-striped Zamtrios subspecies dwells primarily in desert climes, and can employ its ability to expand and contract its body even while in motion, making it an even more formidable adversary.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Amphibian",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MH4U-Tigerstripe_Zamtrios_Icon.png"
+  },
+  {
+    "Id": 297,
+    "Name": "Tigrex",
+    "Subname": "",
+    "Description": "Flying wyverns whose primitive origins are obvious. Prone to violence, they display incredible ferocity with their claws, jaws, and developed limbs. They inhabit a wide area, and have been spotted as far off as the Frozen Seaway.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 5,
+    "Image": "MH4U-Tigrex_Icon.png"
+  },
+  {
+    "Id": 298,
+    "Name": "Tobi-Kadachi",
+    "Subname": "",
+    "Description": "A fanged wyvern that flies among the trees of the Ancient Forest. Its penchant to brush against the ground and the trees as it moves around builds up static electricity within its fur.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHW-Tobi-Kadachi_Icon.png"
+  },
+  {
+    "Id": 299,
+    "Name": "Tzitzi-Ya-Ku",
+    "Subname": "",
+    "Description": "This odd monster blinds both prey and enemies with a special pulsing organ near its head. It then uses its strong legs to deliver finishing blows.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Tzitzi-Ya-Ku_Icon.png"
+  },
+  {
+    "Id": 300,
+    "Name": "Ukanlos",
+    "Subname": "",
+    "Description": "An enigmatic dragon sighted only deep within the most remote extremes. Its jaws are capable of crushing ice and rock alike. The natives of one region claim its appearance mirrors that of the white god of their legends.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MH4U-Ukanlos_Icon.png"
+  },
+  {
+    "Id": 301,
+    "Name": "Uragaan",
+    "Subname": "",
+    "Description": "Large brute wyverns that feed on ore, using their mighty jaws to crush bedrock to powder. They cleverly affix rocks and ore to their hides with lava, then cast them about, using vibrations to make them explode. When they fall, ore can be mined from their bodies.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Brute Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Uragaan_Icon.png"
+  },
+  {
+    "Id": 302,
+    "Name": "Uroktor",
+    "Subname": "",
+    "Description": "Leviathans that inhabit volcanoes. Noted for swarming around larger monsters\u0027 kills in order to feed. Uroktor rarely hunt for themselves, but stab upward at prey from the ground when they do. Known for being highly aggressive.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 2,
+    "Image": "MH3U-Uroktor_Icon.png"
+  },
+  {
+    "Id": 303,
+    "Name": "Uth Duna",
+    "Subname": "",
+    "Description": "The leviathan that reigns supreme over the Scarlet Forest\u0027s ecosystem. It has adapted to water-rich environments and is sighted most often during the Downpour. Uth Duna\u0027s secretions when combined with water form a protective veil that not only absorbs hostile blows but also adds weight, which it slams down with enough force to sweep away surrounding threats in the resulting wave.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Uth_Duna_Icon.png"
+  },
+  {
+    "Id": 304,
+    "Name": "Vaal Hazak",
+    "Subname": "",
+    "Description": "A grotesque Elder Dragon, that inhabits the deepest part of the Rotten Vale. It uses the fatal vapor of the vale in what appears to be a symbiotic relationship.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHW-Vaal_Hazak_Icon.png"
+  },
+  {
+    "Id": 305,
+    "Name": "Valstrax",
+    "Subname": "",
+    "Description": "An elder dragon that soars at very high altitudes far from human habitation. Its flaming red wings are often the only visible sign of it, giving rise to its nickname, the Argent Comet. Those wings aren\u0027t just for flying, though, and are easily used to stab, rend and blow away its enemies. Occasionally, one can find the scorched shells it has left behind.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MHGU-Valstrax_Icon.png"
+  },
+  {
+    "Id": 306,
+    "Name": "Velkhana",
+    "Subname": "",
+    "Description": "An elder dragon said to freeze all in its path. According to legend, it can control the cold, and use its freezing breath to conjure massive spires of ice out of nowhere.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Velkhana_Icon.png"
+  },
+  {
+    "Id": 307,
+    "Name": "Velocidrome",
+    "Subname": "",
+    "Description": "Alpha monsters that lead Velociprey packs. Larger than their brothers and with a more prominent crest, Velocidrome use their strong hind legs to leap at prey, pinning them with sharp claws before calling for others.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 3,
+    "Image": "MH4U-Velocidrome_Icon.png"
+  },
+  {
+    "Id": 308,
+    "Name": "Velociprey",
+    "Subname": "",
+    "Description": "Aggressive, carnivorous monsters that often travel and hunt in packs -- even master hunters are careful to not let themselves get surrounded by these predators. In this region, they\u0027re known to inhabit the Everwood.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH4U-Velociprey_Icon.png"
+  },
+  {
+    "Id": 309,
+    "Name": "Versa Pietru",
+    "Subname": "",
+    "Description": "Legendary White Dragon. Lights up the skies, pierces through darkness; the very embodiment of hope.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHST-Versa_Pietru_Icon.png"
+  },
+  {
+    "Id": 310,
+    "Name": "Vespoid",
+    "Subname": "",
+    "Description": "An enormous, wasp-like insectoid with a poisonous stinger that paralyzes prey. Easily damaged, there are rarely any usable parts left to harvest from them once they are killed. But if you could sap their Health gradually...",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Neopteron",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 1,
+    "Image": "MHGen-Vespoid_Icon.png"
+  },
+  {
+    "Id": 311,
+    "Name": "Violet Mizutsune",
+    "Subname": "",
+    "Description": "Violet Mizutsune are leviathans known for their beautiful lilac-colored fur. They use the fluid they secrete to slide around, targeting their prey with gas-filled bubbles. Though they appear graceful creatures, the facade quickly fades as they envelop themselves in pale flames and bathe their surroundings in a beautiful, but deadly, inferno of white-hot flame.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Leviathan",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 9,
+    "Image": "MHRS-Violet_Mizutsune_Icon.png"
+  },
+  {
+    "Id": 312,
+    "Name": "Viper Tobi-Kadachi",
+    "Subname": "",
+    "Description": "The tail of this subspecies secretes a toxin while its fangs paralyze prey. It can also glide without climbing trees.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Viper_Tobi-Kadachi_Icon.png"
+  },
+  {
+    "Id": 313,
+    "Name": "Volvidon",
+    "Subname": "",
+    "Description": "Fanged beasts with thick red carapaces that are resistant to lava. Their rounded bodies are perfect for rolling across hot surfaces, and their long tongues are ideal for capturing insect prey. Their saliva emits a paralyzing toxin that should be avoided.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Beast",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 4,
+    "Image": "MH3U-Volvidon_Icon.png"
+  },
+  {
+    "Id": 314,
+    "Name": "White Fatalis",
+    "Subname": "",
+    "Description": "",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder",
+      "Dragon"
+    ],
+    "ThreatLevel": 6,
+    "Image": "MH4U-Unknown_Icon.png"
+  },
+  {
+    "Id": 315,
+    "Name": "White Monoblos",
+    "Subname": "",
+    "Description": "A rare Monoblos subspecies covered in chalk-tinted plating. More ferocious than its standard cousin, the White Monoblos is unrelenting in the pursuit of any prey it happens upon.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Flying Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 5,
+    "Image": "MH4U-White_Monoblos_Icon.png"
+  },
+  {
+    "Id": 316,
+    "Name": "Wind Serpent Ibushi",
+    "Subname": "",
+    "Description": "A male elder dragon that exhibits inexplicable behaviors such as floating upside down midair. Research indicates that the emission of a special gas from all over its body, and the modulation of this gas, is what allows it to move freely. It shows air from gills on its arms and tail to fly, creating its own turbulence and soaring to great heights.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Dragon"
+    ],
+    "ThreatLevel": 9,
+    "Image": "MHRise-Wind_Serpent_Ibushi_Icon.png"
+  },
+  {
+    "Id": 317,
+    "Name": "Wroggi",
+    "Subname": "",
+    "Description": "Small, carnivorous bird wyverns with poison-generating organs that run from their mouths to their throats. They run in packs, often led by a large alpha male. Lesser members of the order are fiercely loyal, and will eagerly lay down their lives to protect the alpha.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 2,
+    "Image": "MH3U-Wroggi_Icon.png"
+  },
+  {
+    "Id": 318,
+    "Name": "Wulg",
+    "Subname": "",
+    "Description": "Miniature fanged wyverns of the Hinterlands. They doggedly stalk prey in a pack, and will attack even foes much larger than they.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWI-Wulg_Icon.png"
+  },
+  {
+    "Id": 319,
+    "Name": "Xeno\u0027jiiva",
+    "Subname": "",
+    "Description": "A new species discovered in the depths of the Elder\u0027s Recess. Its relationship to the other elder dragons is unclear, as is its ecology.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire",
+      "Dragon"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHW-Xenojiiva_Icon.png"
+  },
+  {
+    "Id": 320,
+    "Name": "Xu Wu",
+    "Subname": "",
+    "Description": "Cephalopod predators whose prey include Guardian monsters. The mucus secreted from their tentacles hardens quickly into sharp edges that resemble blades or spears, which is why some call Xu Wu the \u0022Piercing Assassin\u0022. The sizable mouth hidden on their underside allows them to devour even rather large prey.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Cephalopod",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Xu_Wu_Icon.png"
+  },
+  {
+    "Id": 321,
+    "Name": "Yian Garuga",
+    "Subname": "",
+    "Description": "A close relative of the Yian Kut-Ku known for its hard black shell and tufts of white mane. These clever monsters are known to avoid traps and use their poisonous tail to deadly effect; they are not to be taken lightly.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH4U-Yian_Garuga_Icon.png"
+  },
+  {
+    "Id": 322,
+    "Name": "Yian Kut-Ku",
+    "Subname": "",
+    "Description": "A bird wyvern with a huge beak and large ears that splay open when it is angered. Due to its sensitive hearing it dislikes loud noises. It is smaller but faster than other wyverns.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Bird Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 3,
+    "Image": "MH4U-Yian_Kut-Ku_Icon.png"
+  },
+  {
+    "Id": 323,
+    "Name": "Zamite",
+    "Subname": "",
+    "Description": "Juvenile Zamtrios that use their sharp teeth to pierce the hide of their prey and then burrow inside to consume them from within; those who are attacked must roll around vigorously to shake the monster off. Zamite grow rapidly after even a single feeding.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Amphibian",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Ice"
+    ],
+    "ThreatLevel": 2,
+    "Image": "MH4U-Zamite_Icon.png"
+  },
+  {
+    "Id": 324,
+    "Name": "Zamtrios",
+    "Subname": "",
+    "Description": "Amphibians that strike from frozen waters, using the cold to stun their prey. They secrete a special liquid that both coats their own body with icy armor and freezes any nearby foes. Frogs are their favorite food.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Amphibian",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Water",
+      "Ice"
+    ],
+    "ThreatLevel": 4,
+    "Image": "MH4U-Zamtrios_Icon.png"
+  },
+  {
+    "Id": 325,
+    "Name": "Zinogre",
+    "Subname": "",
+    "Description": "Fanged wyverns whose bodies are streaked with electricity. Sharp claws and strong limbs allow them to thrive in mountainous terrain. During hunts, they gather numerous Thunderbugs to boost their power and enter a supercharged state.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Fanged Wyvern",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Thunder"
+    ],
+    "ThreatLevel": 5,
+    "Image": "MH3U-Zinogre_Icon.png"
+  },
+  {
+    "Id": 326,
+    "Name": "Zoh Shia",
+    "Subname": "",
+    "Description": "A massive Guardian that has been feeding off the Dragontorch\u0027s energy. Its body is encased in crystallized Wyvern Milk, allowing it to regenerate. Zoh Shia, like other Guardians, excels at energy attacks and can produce repeated explosions to crystallize the whole area. Beneath its white Guardian coat, its body pulses with dark recollection - which you may see, should it reveal its full power from the days of yore.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Construct",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire",
+      "Thunder"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHWilds-Xu_Wu_Icon.png"
+  },
+  {
+    "Id": 327,
+    "Name": "Zorah Magdaros",
+    "Subname": "",
+    "Description": "An elder dragon that rises from the earth like a volcano. Where it\u0027s headed, and why, the Research Commission has yet to figure out.",
+    "Generation": 0,
+    "Habitat": [
+      ""
+    ],
+    "Classification": "Elder Dragon",
+    "Size": 0,
+    "Skeleton": "",
+    "Elements": [
+      "Fire"
+    ],
+    "ThreatLevel": 0,
+    "Image": "MHW-Zorah_Magdaros_Icon.png"
+  }
+]
