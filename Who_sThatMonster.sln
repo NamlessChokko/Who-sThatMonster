@@ -8,7 +8,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Who_sThatMonster.web", "src
 		{60D4E471-CC4B-4540-8666-CFB233969E22} = {60D4E471-CC4B-4540-8666-CFB233969E22}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Who_sThatMonster.Infrastructure", "Who_sThatMonster.Infrastructure\Who_sThatMonster.Infrastructure.csproj", "{60D4E471-CC4B-4540-8666-CFB233969E22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Who_sThatMonster.Infrastructure", "src\Who_sThatMonster.Infrastructure\Who_sThatMonster.Infrastructure.csproj", "{60D4E471-CC4B-4540-8666-CFB233969E22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

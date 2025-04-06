@@ -1,4 +1,4 @@
-namespace Who_sThatMonster.Web.Models;
+namespace Who_sThatMonster.Infrastructure.Models;
 
 public interface IMonster
 {
@@ -7,7 +7,7 @@ public interface IMonster
     string Subname { get; set; }
     string Description { get; set; }
     int Generation { get; set; }
-    string Habitat { get; set; }
+    List<string> Habitat { get; set; }
     string Classification { get; set; }
     float Size { get; set; }
     string Skeleton { get; set; }

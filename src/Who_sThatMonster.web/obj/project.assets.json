@@ -2271,8 +2271,8 @@
     },
     "Who_sThatMonster.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../../Who_sThatMonster.Infrastructure/Who_sThatMonster.Infrastructure.csproj",
-      "msbuildProject": "../../Who_sThatMonster.Infrastructure/Who_sThatMonster.Infrastructure.csproj"
+      "path": "../Who_sThatMonster.Infrastructure/Who_sThatMonster.Infrastructure.csproj",
+      "msbuildProject": "../Who_sThatMonster.Infrastructure/Who_sThatMonster.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2315,8 +2315,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Osman\\OneDrive\\Desktop\\Who'sThatMonster\\Who_sThatMonster.Infrastructure\\Who_sThatMonster.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Osman\\OneDrive\\Desktop\\Who'sThatMonster\\Who_sThatMonster.Infrastructure\\Who_sThatMonster.Infrastructure.csproj"
+            "C:\\Users\\Osman\\OneDrive\\Desktop\\Who'sThatMonster\\src\\Who_sThatMonster.Infrastructure\\Who_sThatMonster.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Osman\\OneDrive\\Desktop\\Who'sThatMonster\\src\\Who_sThatMonster.Infrastructure\\Who_sThatMonster.Infrastructure.csproj"
             }
           }
         }

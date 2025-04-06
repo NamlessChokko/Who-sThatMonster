@@ -1,4 +1,4 @@
-namespace Who_sThatMonster.Web.Models;
+namespace Who_sThatMonster.Infrastructure.Models;
 
 public class Monster : IMonster
 {
@@ -7,7 +7,7 @@ public class Monster : IMonster
     public string Subname { get; set; } = string.Empty;
     public string Description { get; set; } = string.Empty;
     public int Generation { get; set; }
-    public string Habitat { get; set; } = string.Empty;
+    public List<string> Habitat { get; set; } = new();
     public string Classification { get; set; } = string.Empty;
     public float Size { get; set; }
     public string Skeleton { get; set; } = string.Empty;
