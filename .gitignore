@@ -16,3 +16,5 @@ appsettings.Production.json
 
 *.db
 .env
+
+src\Who_sThatMonster.web\obj

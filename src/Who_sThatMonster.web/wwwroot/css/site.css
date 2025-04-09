@@ -1,3 +1,5 @@
+
+
 html {
   font-size: 14px;
 }
@@ -19,4 +21,21 @@ html {
 
 body {
   margin-bottom: 60px;
+}
+
+.HomePageTitle {
+  font-size: 1rem;
+  text-align: center;
+
+  margin: 0;
+  margin-bottom: 1rem;
+  margin-top: 7rem;
+  margin-left: 0rem;
+  margin-right: 0rem;
+  
+  padding-left: 0rem;
+  
+  border: 3px solid rgb(25, 0, 255);
+  border-radius: 2rem;
+  flex:auto;
 }
