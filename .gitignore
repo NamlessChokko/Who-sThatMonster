@@ -2,8 +2,8 @@
 *.user
 *.suo
 
-bin/
 obj/
+bin/
 
 .vscode/
 
