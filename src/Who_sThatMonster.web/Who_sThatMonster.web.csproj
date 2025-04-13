@@ -20,11 +20,4 @@
     <ProjectReference Include="..\Who_sThatMonster.Infrastructure\Who_sThatMonster.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Content Include="wwwroot/**/*" CopyToOutputDirectory="PreserveNewest" />
-  </ItemGroup>
-
-
-
-
 </Project>
