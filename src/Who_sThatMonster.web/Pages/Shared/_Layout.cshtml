@@ -2,20 +2,44 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - Who's That Monster</title>
     <link rel="stylesheet" href="~/css/site.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 <body>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
+    <div class="page-content">
+        @RenderBody()
     </div>
 
+    <div id="sidebar" class="sidebar">
+        <button id="toggleBtn" class="toggle-sidebar">⬅️</button>
 
+        <div class="sidebar-option">⚙️ Settings</div>
+        <div class="sidebar-option">💬 About</div>
+        <div class="sidebar-option">✉️ Contact</div>
+        <div class="sidebar-option">📰 News</div>
+    </div>
 
+    <script>
+        const sidebar = document.getElementById("sidebar");
+        const toggleBtn = document.getElementById("toggleBtn");
 
-    @await RenderSectionAsync("Scripts", required: false)
+        // Cambiar icono y mostrar/ocultar
+        toggleBtn.addEventListener("click", () => {
+            sidebar.classList.toggle("open");
+            toggleBtn.textContent = sidebar.classList.contains("open") ? "➡️" : "⬅️";
+        });
+
+        // Cerrar sidebar al hacer clic fuera
+        document.addEventListener("click", (e) => {
+            const isClickInside = sidebar.contains(e.target);
+
+            if (!isClickInside && sidebar.classList.contains("open")) {
+                sidebar.classList.remove("open");
+                toggleBtn.textContent = "⬅️";
+            }
+        });
+    </script>
+
 </body>
 </html>

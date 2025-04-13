@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Osman\\OneDrive\\Desktop\\Who'sThatMonster\\src\\Who_sThatMonster.web\\Who_sThatMonster.web.csproj": {}
+    "/home/ox/Desktop/Who-sThatMonster/src/Who_sThatMonster.web/Who_sThatMonster.web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Osman\\OneDrive\\Desktop\\Who'sThatMonster\\src\\Who_sThatMonster.Infrastructure\\Who_sThatMonster.Infrastructure.csproj": {
+    "/home/ox/Desktop/Who-sThatMonster/src/Who_sThatMonster.Infrastructure/Who_sThatMonster.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Osman\\OneDrive\\Desktop\\Who'sThatMonster\\src\\Who_sThatMonster.Infrastructure\\Who_sThatMonster.Infrastructure.csproj",
+        "projectUniqueName": "/home/ox/Desktop/Who-sThatMonster/src/Who_sThatMonster.Infrastructure/Who_sThatMonster.Infrastructure.csproj",
         "projectName": "Who_sThatMonster.Infrastructure",
-        "projectPath": "C:\\Users\\Osman\\OneDrive\\Desktop\\Who'sThatMonster\\src\\Who_sThatMonster.Infrastructure\\Who_sThatMonster.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Osman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Osman\\OneDrive\\Desktop\\Who'sThatMonster\\src\\Who_sThatMonster.Infrastructure\\obj\\",
+        "projectPath": "/home/ox/Desktop/Who-sThatMonster/src/Who_sThatMonster.Infrastructure/Who_sThatMonster.Infrastructure.csproj",
+        "packagesPath": "/home/ox/.nuget/packages/",
+        "outputPath": "/home/ox/Desktop/Who-sThatMonster/src/Who_sThatMonster.Infrastructure/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Osman\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ox/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -71,60 +64,39 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.15, 8.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.15, 8.0.15]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.15, 8.0.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Osman\\OneDrive\\Desktop\\Who'sThatMonster\\src\\Who_sThatMonster.web\\Who_sThatMonster.web.csproj": {
+    "/home/ox/Desktop/Who-sThatMonster/src/Who_sThatMonster.web/Who_sThatMonster.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Osman\\OneDrive\\Desktop\\Who'sThatMonster\\src\\Who_sThatMonster.web\\Who_sThatMonster.web.csproj",
+        "projectUniqueName": "/home/ox/Desktop/Who-sThatMonster/src/Who_sThatMonster.web/Who_sThatMonster.web.csproj",
         "projectName": "Who_sThatMonster.web",
-        "projectPath": "C:\\Users\\Osman\\OneDrive\\Desktop\\Who'sThatMonster\\src\\Who_sThatMonster.web\\Who_sThatMonster.web.csproj",
-        "packagesPath": "C:\\Users\\Osman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Osman\\OneDrive\\Desktop\\Who'sThatMonster\\src\\Who_sThatMonster.web\\obj\\",
+        "projectPath": "/home/ox/Desktop/Who-sThatMonster/src/Who_sThatMonster.web/Who_sThatMonster.web.csproj",
+        "packagesPath": "/home/ox/.nuget/packages/",
+        "outputPath": "/home/ox/Desktop/Who-sThatMonster/src/Who_sThatMonster.web/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Osman\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ox/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Osman\\OneDrive\\Desktop\\Who'sThatMonster\\src\\Who_sThatMonster.Infrastructure\\Who_sThatMonster.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Osman\\OneDrive\\Desktop\\Who'sThatMonster\\src\\Who_sThatMonster.Infrastructure\\Who_sThatMonster.Infrastructure.csproj"
+              "/home/ox/Desktop/Who-sThatMonster/src/Who_sThatMonster.Infrastructure/Who_sThatMonster.Infrastructure.csproj": {
+                "projectPath": "/home/ox/Desktop/Who-sThatMonster/src/Who_sThatMonster.Infrastructure/Who_sThatMonster.Infrastructure.csproj"
               }
             }
           }
@@ -175,24 +147,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.15, 8.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.15, 8.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.15, 8.0.15]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.15, 8.0.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -201,7 +155,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
