@@ -17,5 +17,5 @@ FROM mcr.microsoft.com/dotnet/aspnet:${DOTNET_SDK_VERSION}
 ENV ASPNETCORE_URLS http://+:8080
 ENV ASPNETCORE_ENVIRONMENT Production
 WORKDIR /app
-COPY --from=build /app .
-ENTRYPOINT [ "dotnet", "Who_sThatMonster.web.dll" ]
+COPY --from=build /app /app
+ENTRYPOINT ["dotnet", "Who_sThatMonster.web.dll"]
